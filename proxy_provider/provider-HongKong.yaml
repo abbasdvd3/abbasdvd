@@ -1,0 +1,17 @@
+proxies:
+- {"name":"Relay_-🇭🇰HK_135","server":"v1-hk.xtspeeder001.xyz","type":"vmess","port":18001,"uuid":"26fe3b2c-1005-362b-9700-426961cbd50b","alterId":0,"cipher":"auto","network":"tcp","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇭🇰 HK_439","server":"148.66.56.99","type":"ss","country":"🇭🇰 HK","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰 HK_440","server":"148.66.56.99","type":"ss","country":"🇭🇰 HK","port":802,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_441","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_442","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_443","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_444","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_445","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_446","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_447","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_448","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_449","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_450","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_451","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇭🇰HK-🇭🇰HK_452","server":"hrgdvpn.flycdnedc55.vip","type":"vmess","country":"🇭🇰HK","port":80,"uuid":"00a1da14-d55f-5f75-e346-79b985e1a723","alterId":32,"cipher":"auto","network":"ws","ws-path":"/opt/video/images","servername":"hrgdvpn.flycdnedc55.vip","ws-headers":{"HOST":"hrgdvpn.flycdnedc55.vip"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇭🇰HK_453","server":"182.16.1.194","type":"vmess","country":"🇭🇰HK","port":80,"uuid":"00a1da14-d55f-5f75-e346-79b985e1a723","alterId":0,"cipher":"auto","network":"ws","ws-path":"/opt/video/images","servername":"182.16.1.194","ws-headers":{"HOST":"182.16.1.194"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}

@@ -1,0 +1,2 @@
+proxies:
+- {"name":"🇧🇷BR_172","server":"172.107.208.200","type":"ss","country":"🇧🇷BR","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}

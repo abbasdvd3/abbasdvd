@@ -1,0 +1,452 @@
+proxies:
+- {"name":"🇺🇸 US_3208 |18.03Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3209 |48.63Mb","server":"38.68.134.196","type":"ss","country":"🇺🇸 US","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_3210 |43.95Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3211 |51.13Mb","server":"167.88.61.119","type":"ss","country":"🇺🇸 US","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3212 |36.61Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3213 | 5.83Mb","server":"38.91.102.123","type":"ss","country":"🇺🇸 US","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3214 |18.33Mb","server":"38.91.107.37","type":"ss","country":"🇺🇸 US","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3215 |39.61Mb","server":"38.75.136.34","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3216 |19.07Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3217 |23.36Mb","server":"38.91.102.30","type":"ss","country":"🇺🇸 US","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3218 |17.83Mb","server":"38.91.107.37","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3219 |17.78Mb","server":"167.88.61.50","type":"ss","country":"🇺🇸 US","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3220 |16.58Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3221 |54.56Mb","server":"38.75.136.34","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3222 |39.99Mb","server":"172.99.190.61","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3223 |53.73Mb","server":"38.75.136.34","type":"ss","country":"🇺🇸 US","port":9101,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3224 |48.76Mb","server":"162.251.61.47","type":"ss","country":"🇺🇸 US","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_3225 |13.31Mb","server":"38.121.43.65","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3226 |14.35Mb","server":"38.121.43.204","type":"ss","country":"🇺🇸 US","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3227 |14.87Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3228 |45.39Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3229 |51.81Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3230 |18.47Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3231 |21.62Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3232 |41.42Mb","server":"38.114.114.104","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3233 |16.92Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3234 |48.20Mb","server":"167.88.63.59","type":"ss","country":"🇺🇸 US","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3235 |12.75Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3236 |50.41Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3237 |44.47Mb","server":"167.88.63.59","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3238 |42.15Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3239 |58.43Mb","server":"38.114.114.19","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3240 |13.44Mb","server":"38.68.135.19","type":"ss","country":"🇺🇸 US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3241 |58.23Mb","server":"38.114.114.69","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3242 |25.65Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3243 |55.77Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸 US","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3244 |50.81Mb","server":"38.86.135.27","type":"ss","country":"🇺🇸 US","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3245 |13.73Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3246 |51.02Mb","server":"38.86.135.27","type":"ss","country":"🇺🇸 US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3247 | 8.75Mb","server":"38.143.66.55","type":"ss","country":"🇺🇸 US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3248 |43.87Mb","server":"38.86.135.27","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3249 |20.47Mb","server":"38.75.136.102","type":"ss","country":"🇺🇸 US","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3250 |55.16Mb","server":"38.114.114.69","type":"ss","country":"🇺🇸 US","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3251 |36.34Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3252 |35.37Mb","server":"172.99.188.71","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3253 |36.31Mb","server":"172.99.188.71","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3254 |30.68Mb","server":"172.99.188.71","type":"ss","country":"🇺🇸 US","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3255 |33.16Mb","server":"172.99.190.87","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3256 |16.50Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3257 |47.07Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3258 |62.74Mb","server":"38.68.134.196","type":"ss","country":"🇺🇸 US","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_3259 |31.80Mb","server":"38.91.106.75","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3260 |46.56Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3261 |38.72Mb","server":"38.68.134.196","type":"ss","country":"🇺🇸 US","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_3262 |46.22Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3263 |45.96Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3264 |18.41Mb","server":"167.88.61.50","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3265 |18.95Mb","server":"38.91.100.207","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3266 |58.35Mb","server":"38.114.114.69","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3267 |57.31Mb","server":"38.114.114.69","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3268 |58.52Mb","server":"38.114.114.69","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3269 |18.61Mb","server":"38.91.100.207","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3270 |35.97Mb","server":"172.99.188.71","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3271 |16.78Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3272 |53.28Mb","server":"38.114.114.104","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3273 |16.71Mb","server":"167.88.63.79","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3274 |57.65Mb","server":"38.114.114.19","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3275 |37.28Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3276 |17.21Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3277 |17.48Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3278 |55.29Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":9101,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3279 |43.22Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3280 |61.12Mb","server":"5.188.0.151","type":"ss","country":"🇺🇸 US","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_3281 |48.31Mb","server":"38.86.135.36","type":"ss","country":"🇺🇸 US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3282 |53.66Mb","server":"38.114.114.104","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3283 |16.78Mb","server":"172.99.190.149","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3284 |37.53Mb","server":"ak1517.free.www.outline.network","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3285 |51.82Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3286 |49.49Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3287 |18.05Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3288 | 5.93Mb","server":"38.143.66.20","type":"ss","country":"🇺🇸 US","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3289 |51.14Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3290 |11.60Mb","server":"167.88.63.82","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3291 |52.48Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3292 |20.38Mb","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3293 |18.55Mb","server":"38.68.135.239","type":"ss","country":"🇺🇸 US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3294 |19.56Mb","server":"167.88.63.82","type":"ss","country":"🇺🇸 US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3295 |10.30Mb","server":"38.68.135.19","type":"ss","country":"🇺🇸 US","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3296 | 1.05Mb","server":"38.68.135.19","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3297 |12.02Mb","server":"38.68.135.19","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3298 |28.18Mb","server":"172.99.188.71","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3299 |52.12Mb","server":"38.114.114.104","type":"ss","country":"🇺🇸 US","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3300 |15.87Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3301 |16.39Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3302 |37.07Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3303 |37.67Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3304 |18.07Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":4444,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3305 |17.30Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3306 |19.28Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3307 |49.86Mb","server":"38.75.136.34","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3308 |11.11Mb","server":"165.232.169.142","type":"ss","country":"🇺🇸 US","port":29332,"password":"1e5111699c45496da84112f35db665c4","cipher":"aes-256-cfb"}
+- {"name":"🇺🇸 US_3309 |34.70Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3310 |49.93Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3311 |17.51Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3312 |51.94Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3313 |49.09Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3314 |16.52Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3315 |17.69Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3316 |49.56Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3317 |21.12Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3318 |41.40Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3319 |16.50Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3320 |28.89Mb","server":"38.114.114.104","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3321 |40.41Mb","server":"38.114.114.104","type":"ss","country":"🇺🇸 US","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3322 |54.66Mb","server":"38.114.114.104","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3323 |12.74Mb","server":"38.121.43.97","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3324 |17.07Mb","server":"172.99.190.149","type":"ss","country":"🇺🇸 US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3325 |32.99Mb","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3326 |17.68Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3327 |40.51Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3328 |38.34Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3329 |33.44Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3330 |26.48Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3331 |54.92Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3332 |15.23Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3333 |20.05Mb","server":"38.121.43.97","type":"ss","country":"🇺🇸 US","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3334 |24.22Mb","server":"38.121.43.97","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3335 |11.30Mb","server":"ak1438.free.www.outline.network","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3336 |29.67Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3337 |50.05Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3338 | 7.37Mb","server":"38.143.66.20","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3339 |35.64Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3340 |47.94Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3341 |49.61Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3342 | 9.22Mb","server":"38.143.66.20","type":"ss","country":"🇺🇸 US","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3343 |36.87Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3344 |47.65Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3345 |11.58Mb","server":"38.143.66.20","type":"ss","country":"🇺🇸 US","port":9101,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3346 |50.45Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3347 |50.60Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3348 |49.84Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3349 |17.44Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3350 |47.86Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3351 |16.93Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3352 |66.26Mb","server":"38.68.134.196","type":"ss","country":"🇺🇸 US","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_3353 |16.69Mb","server":"38.114.114.49","type":"ss","country":"🇺🇸 US","port":9101,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3354 |47.72Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3355 |44.03Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3356 |47.37Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3357 | 9.38Mb","server":"38.91.102.72","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3358 |46.71Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3359 |17.48Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3360 |54.12Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3361 |40.04Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3362 |38.71Mb","server":"38.86.135.27","type":"ss","country":"🇺🇸 US","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3363 |28.64Mb","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3364 | 7.48Mb","server":"38.91.102.72","type":"ss","country":"🇺🇸 US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3365 |32.66Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3366 |33.00Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3367 |10.44Mb","server":"167.88.61.50","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3368 |11.22Mb","server":"38.91.102.72","type":"ss","country":"🇺🇸 US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3369 |18.18Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3370 |14.38Mb","server":"38.114.114.49","type":"ss","country":"🇺🇸 US","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3371 |13.46Mb","server":"167.88.61.50","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3372 |15.65Mb","server":"167.88.61.50","type":"ss","country":"🇺🇸 US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3373 |41.52Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3374 |16.51Mb","server":"167.88.61.50","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3375 |15.25Mb","server":"142.202.48.7","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3376 |17.88Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3377 |18.27Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3378 |34.43Mb","server":"172.99.190.87","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3379 |21.80Mb","server":"38.68.134.196","type":"ss","country":"🇺🇸 US","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_3380 |16.45Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3381 |38.92Mb","server":"167.88.63.79","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3382 |41.49Mb","server":"38.68.134.196","type":"ss","country":"🇺🇸 US","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_3383 |29.68Mb","server":"38.91.102.124","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3384 |30.87Mb","server":"38.68.134.196","type":"ss","country":"🇺🇸 US","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_3385 |16.25Mb","server":"167.88.61.50","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3386 |47.98Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3387 |17.77Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3388 |17.92Mb","server":"167.88.61.50","type":"ss","country":"🇺🇸 US","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3389 |125.04Mb","server":"144.168.58.170","type":"ss","country":"🇺🇸 US","port":254,"password":"bwhskrskr05","cipher":"aes-256-cfb"}
+- {"name":"🇺🇸 US_3390 |115.75Mb","server":"97.64.26.63","type":"ss","country":"🇺🇸 US","port":253,"password":"bwhskrskr03","cipher":"aes-256-cfb"}
+- {"name":"🇺🇸 US_3391 | 6.94Mb","server":"167.88.61.213","type":"ss","country":"🇺🇸 US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3392 |30.74Mb","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3393 |50.19Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3394 |17.21Mb","server":"172.99.190.149","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3395 |36.14Mb","server":"ak1502.free.www.outline.network","type":"ss","country":"🇺🇸 US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3396 |48.82Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3397 |17.81Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3398 |17.98Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":9101,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3399 |52.41Mb","server":"38.75.136.34","type":"ss","country":"🇺🇸 US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3400 |49.35Mb","server":"38.107.226.49","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3401 |25.32Mb","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3402 |43.81Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3403 | 7.22Mb","server":"13.215.173.114","type":"ss","country":"🇺🇸 US","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+- {"name":"🇺🇸 US_3404 |48.50Mb","server":"154.37.152.33","type":"ss","country":"🇺🇸 US","port":18022,"password":"123123123","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3405 |37.27Mb","server":"172.99.190.7","type":"ss","country":"🇺🇸 US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3406 |38.76Mb","server":"172.99.190.7","type":"ss","country":"🇺🇸 US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3407 |16.05Mb","server":"38.68.135.19","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3408 |67.81Mb","server":"37.120.147.230","type":"ss","country":"🇺🇸 US","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_3409 |30.10Mb","server":"38.68.135.19","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3410 |13.19Mb","server":"167.88.61.213","type":"ss","country":"🇺🇸 US","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3411 |40.10Mb","server":"172.99.190.87","type":"ss","country":"🇺🇸 US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3412 |38.64Mb","server":"167.88.61.213","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3413 |37.36Mb","server":"172.99.190.87","type":"ss","country":"🇺🇸 US","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3414 |12.36Mb","server":"142.202.48.7","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3415 |25.28Mb","server":"38.68.135.19","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3416 |44.05Mb","server":"167.88.61.213","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3417 |54.75Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3418 | 4.92Mb","server":"38.68.135.19","type":"ss","country":"🇺🇸 US","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3419 |54.93Mb","server":"38.107.226.238","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3420 |51.79Mb","server":"38.86.135.36","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3421 |36.33Mb","server":"172.99.190.7","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3422 |55.06Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3423 |23.86Mb","server":"172.99.190.87","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3424 |50.76Mb","server":"38.86.135.36","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3425 |53.28Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸 US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3426 |52.98Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3427 |24.53Mb","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3428 |18.64Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3429 |18.59Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3430 |18.71Mb","server":"38.75.137.9","type":"ss","country":"🇺🇸 US","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3431 |18.13Mb","server":"38.68.135.239","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3432 |51.55Mb","server":"38.86.135.169","type":"ss","country":"🇺🇸 US","port":9101,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3433 |18.72Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3434 |18.21Mb","server":"38.75.137.9","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3435 |38.98Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3436 |18.52Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3437 |18.48Mb","server":"38.121.43.204","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3438 |25.29Mb","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3439 |13.96Mb","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3440 |37.76Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3441 |47.64Mb","server":"167.88.62.62","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3442 |41.39Mb","server":"38.107.226.238","type":"ss","country":"🇺🇸 US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3443 |18.68Mb","server":"38.114.114.49","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3444 |54.53Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸 US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3445 |17.88Mb","server":"38.114.114.49","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3446 |17.16Mb","server":"167.88.61.50","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3447 |42.48Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3448 |18.74Mb","server":"167.88.61.50","type":"ss","country":"🇺🇸 US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3449 |23.11Mb","server":"38.68.135.19","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3450 |54.06Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸 US","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3451 |36.52Mb","server":"172.99.190.87","type":"ss","country":"🇺🇸 US","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3452 |17.62Mb","server":"38.91.101.159","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3453 |14.77Mb","server":"167.88.63.99","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3454 |18.38Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3455 |18.74Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3456 |18.02Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3457 |39.57Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3458 |35.78Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3459 | 7.39Mb","server":"38.91.102.123","type":"ss","country":"🇺🇸 US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3460 |36.35Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3461 |19.84Mb","server":"38.86.135.36","type":"ss","country":"🇺🇸 US","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3462 |38.93Mb","server":"172.99.190.7","type":"ss","country":"🇺🇸 US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3463 |36.42Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3464 |13.80Mb","server":"167.88.63.99","type":"ss","country":"🇺🇸 US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3465 |30.64Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3466 |28.06Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3467 |18.58Mb","server":"38.91.100.207","type":"ss","country":"🇺🇸 US","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3468 |17.89Mb","server":"38.91.101.159","type":"ss","country":"🇺🇸 US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3469 |18.99Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3470 |16.56Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":9101,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3471 |18.36Mb","server":"38.91.100.207","type":"ss","country":"🇺🇸 US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3472 |18.51Mb","server":"38.91.100.207","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3473 |33.90Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3474 |107.49Mb","server":"172.96.192.100","type":"ss","country":"🇺🇸 US","port":246,"password":"bwhskrskr05","cipher":"aes-256-cfb"}
+- {"name":"🇺🇸 US_3475 |19.01Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3476 |29.49Mb","server":"95.169.4.174","type":"ss","country":"🇺🇸 US","port":254,"password":"bwhskrskr06","cipher":"aes-256-cfb"}
+- {"name":"🇺🇸 US_3477 |28.46Mb","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3478 | 8.06Mb","server":"38.91.102.74","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3479 |34.29Mb","server":"93.179.112.70","type":"ss","country":"🇺🇸 US","port":253,"password":"bwhskrskr06","cipher":"aes-256-cfb"}
+- {"name":"🇺🇸 US_3480 |48.16Mb","server":"38.86.135.36","type":"ss","country":"🇺🇸 US","port":9101,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3481 |18.81Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3482 |59.94Mb","server":"172.96.192.58","type":"ss","country":"🇺🇸 US","port":254,"password":"bwhskrskr03","cipher":"aes-256-cfb"}
+- {"name":"🇺🇸 US_3483 |35.36Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3484 |10.02Mb","server":"167.88.61.213","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3485 |20.60Mb","server":"142.202.48.7","type":"ss","country":"🇺🇸 US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3486 |33.05Mb","server":"172.99.190.7","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3487 |10.74Mb","server":"142.202.48.7","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3488 |19.18Mb","server":"38.75.137.9","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3489 |12.44Mb","server":"38.91.101.159","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3490 |19.56Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3491 |54.78Mb","server":"38.68.134.196","type":"ss","country":"🇺🇸 US","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_3492 |43.13Mb","server":"38.75.136.34","type":"ss","country":"🇺🇸 US","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3493 |33.72Mb","server":"142.202.48.7","type":"ss","country":"🇺🇸 US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3494 |67.77Mb","server":"37.120.147.230","type":"ss","country":"🇺🇸 US","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_3495 |257.10Mb","server":"156.146.38.163","type":"ss","country":"🇺🇸 US","port":443,"password":"shadowsocks","cipher":"aes-128-cfb"}
+- {"name":"🇺🇸 US_3496 | 7.02Mb","server":"38.91.107.72","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3497 |50.74Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸 US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3498 |25.72Mb","server":"172.99.188.99","type":"ss","country":"🇺🇸 US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3499 |42.93Mb","server":"38.75.136.135","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3500 |45.69Mb","server":"38.68.134.9","type":"ss","country":"🇺🇸 US","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3501 |31.43Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3502 |26.61Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3503 |34.43Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸 US","port":9101,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3504 |17.63Mb","server":"38.121.43.97","type":"ss","country":"🇺🇸 US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3505 |23.55Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3506 |44.01Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3507 |28.17Mb","server":"38.114.114.19","type":"ss","country":"🇺🇸 US","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3508 |41.79Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3509 |45.17Mb","server":"167.88.62.62","type":"ss","country":"🇺🇸 US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3510 |41.03Mb","server":"167.88.62.62","type":"ss","country":"🇺🇸 US","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3511 |38.84Mb","server":"167.88.62.62","type":"ss","country":"🇺🇸 US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3512 |44.45Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3513 |41.94Mb","server":"167.88.62.62","type":"ss","country":"🇺🇸 US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3514 |15.33Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3515 |14.67Mb","server":"167.88.61.213","type":"ss","country":"🇺🇸 US","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3516 |40.74Mb","server":"144.168.60.70","type":"ss","country":"🇺🇸 US","port":252,"password":"bwhskrskr03","cipher":"aes-256-cfb"}
+- {"name":"🇺🇸 US_3517 | 7.48Mb","server":"13.214.212.124","type":"ss","country":"🇺🇸 US","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
+- {"name":"🇺🇸 US_3518 |19.11Mb","server":"172.99.190.87","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_3519 | 1.82Mb","server":"ssrfree.zhujicn2.net","type":"ssr","country":"🇺🇸 US","port":10006,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇺🇸 US_3520 | 1.81Mb","server":"ssrfree.zhujicn2.net","type":"ssr","country":"🇺🇸 US","port":10008,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇺🇸 US_3521 | 1.80Mb","server":"ssrfree.zhujicn2.net","type":"ssr","country":"🇺🇸 US","port":10007,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇺🇸 US_3522 | 1.82Mb","server":"ssrfree.zhujicn2.net","type":"ssr","country":"🇺🇸 US","port":10003,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇺🇸 US_3523 | 1.82Mb","server":"ssrfree.zhujicn2.net","type":"ssr","country":"🇺🇸 US","port":10004,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇺🇸 US_3524 | 1.82Mb","server":"ssrfree.zhujicn2.net","type":"ssr","country":"🇺🇸 US","port":10005,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇺🇸 US_3525 | 6.32Mb","server":"161.129.34.102","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"ec736482-173e-3eff-9114-b49df8056e7d","alterId":2,"cipher":"auto","network":"ws","ws-path":"/","servername":"161.129.34.102","ws-headers":{"HOST":"161.129.34.102"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3526","server":"00000000000000000000000000000000000000000000000000000000000001a.node-for-bigairport.win","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"78065c14-fc80-40b5-a46c-0e34efdf82fa","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"00000000000000000000000000000000000000000000000000000000000001a.node-for-bigairport.win","ws-headers":{"HOST":"00000000000000000000000000000000000000000000000000000000000001a.node-for-bigairport.win"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3527","server":"18.170.74.46","type":"vmess","country":"🇺🇸 US","port":11111,"uuid":"7cb72883-9635-46eb-8531-8d697927ff04","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3528","server":"20.25.224.224","type":"vmess","country":"🇺🇸 US","port":59497,"uuid":"c156af46-2767-4358-e779-97186f48a4b5","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3529 |12.24Mb","server":"104.17.192.106","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ccpp","servername":"ccpp.91pan.one","ws-headers":{"HOST":"ccpp.91pan.one"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3530 |145.80Mb","server":"173.208.242.226","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"3740cc26-bd94-449d-abd1-3dad6c08553f","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3531 |62.05Mb","server":"67.21.72.44","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/120208301422","servername":"www.48816626.xyz","ws-headers":{"HOST":"www.48816626.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3533 |31.60Mb","server":"152.69.197.60","type":"vmess","country":"🇺🇸 US","port":1069,"uuid":"ac8e26fe-8150-4b60-ae64-82fc77eba2cf","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3534 |17.69Mb","server":"23.105.199.160","type":"vmess","country":"🇺🇸 US","port":23903,"uuid":"60b6c1a6-6306-4e28-91d9-8d2be2449ae8","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3535 |136.41Mb","server":"23.105.199.160","type":"vmess","country":"🇺🇸 US","port":25078,"uuid":"964f9b2b-7ff1-4026-d4a9-41b824f4b3bb","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3536 |18.52Mb","server":"138.2.44.211","type":"vmess","country":"🇺🇸 US","port":20081,"uuid":"593b8525-0c48-4b0f-d9af-2d73a9148973","alterId":64,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3537 |70.59Mb","server":"150.230.41.9","type":"vmess","country":"🇺🇸 US","port":23292,"uuid":"956c6c2f-bf54-4b87-fafd-4b767ca12750","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/tDZcCqc","servername":"gcfree1.galaxy-cloud.icu","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3539 |61.26Mb","server":"23.230.146.254","type":"vmess","country":"🇺🇸 US","port":1258,"uuid":"edeb41cc-a76a-47f2-fa96-b9141e66a2b0","alterId":0,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3540 |60.34Mb","server":"23.105.199.160","type":"vmess","country":"🇺🇸 US","port":23166,"uuid":"f1cda9da-c859-4f26-f609-a2e8837cc9b8","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3543 |75.92Mb","server":"129.159.41.233","type":"vmess","country":"🇺🇸 US","port":32586,"uuid":"341a9182-c423-499c-c46e-d17838b29037","alterId":0,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3544 | 6.52Mb","server":"aus1.verichains.co","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"9761f8b5-c984-4fd9-9ca9-62f6d5221828","alterId":0,"cipher":"auto","network":"ws","ws-path":"/aus1/getData","servername":"aus1.verichains.co","ws-headers":{"Host":"aus1.verichains.co"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3545 |13.82Mb","server":"172.67.204.23","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ccpp","servername":"ccpp.91pan.one","ws-headers":{"HOST":"ccpp.91pan.one"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3546 |17.12Mb","server":"104.21.44.179","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ccpp","servername":"ccpp.91pan.one","ws-headers":{"HOST":"ccpp.91pan.one"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3547 |11.69Mb","server":"104.17.228.47","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ccpp","servername":"ccpp.91pan.one","ws-headers":{"HOST":"ccpp.91pan.one"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3548","server":"138.2.39.67","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"ab335c88-d14a-4e67-b52c-54ed8be80c49","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3549 |12.84Mb","server":"172.67.178.203","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ccpp","servername":"ccpp.91pan.one","ws-headers":{"HOST":"ccpp.91pan.one"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3550 |51.44Mb","server":"juzius.nmsl.pics","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"619db227-7616-409f-9ead-202ab41ff230","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"juzius.nmsl.pics","ws-headers":{"HOST":"juzius.nmsl.pics"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3551 |15.16Mb","server":"104.17.226.55","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ccpp","servername":"ccpp.91pan.one","ws-headers":{"HOST":"ccpp.91pan.one"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3552 |18.19Mb","server":"104.16.146.116","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ccpp","servername":"ccpp.91pan.one","ws-headers":{"HOST":"ccpp.91pan.one"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3553","server":"168.138.194.243","type":"vmess","country":"🇺🇸 US","port":33421,"uuid":"94e56ff9-ccf1-414e-a114-46e0a79f6614","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3554 |11.23Mb","server":"23.105.199.160","type":"vmess","country":"🇺🇸 US","port":37584,"uuid":"61914893-393a-4685-fc2d-13328bd8e491","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3555 |35.50Mb","server":"168.138.207.66","type":"vmess","country":"🇺🇸 US","port":21365,"uuid":"905f99b1-e7ba-45e0-ae4d-b0ffdf0ad245","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3556 | 7.87Mb","server":"lc-kr02-direct01.lc-kr02.lc-node.com","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"ec736482-173e-3eff-9114-b49df8056e7d","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"lc-kr02-direct01.lc-kr02.lc-node.com","ws-headers":{"HOST":"lc-kr02-direct01.lc-kr02.lc-node.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3557 |13.66Mb","server":"104.19.204.115","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ccpp","servername":"ccpp.91pan.one","ws-headers":{"HOST":"ccpp.91pan.one"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3558 |107.96Mb","server":"67.21.72.41","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":0,"cipher":"auto","network":"ws","ws-path":"/path/173418141123","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3559 | 5.01Mb","server":"fbi.gov","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"d5a38eaf-b723-45be-b7d2-3c4e45b29400","alterId":0,"cipher":"auto","network":"ws","ws-path":"/videos","servername":"hk12.targoocloud.live","ws-headers":{"HOST":"hk12.targoocloud.live"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3560 |13.42Mb","server":"104.17.65.213","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ccpp","servername":"ccpp.91pan.one","ws-headers":{"HOST":"ccpp.91pan.one"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3561 |132.88Mb","server":"107.182.25.210","type":"vmess","country":"🇺🇸 US","port":38528,"uuid":"35a4f4d5-cca4-4def-b5b6-ff2e3cf19813","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3562 |18.19Mb","server":"173.245.58.240","type":"vmess","country":"🇺🇸 US","port":80,"uuid":"735ff430-9d1a-4f57-fb66-e43a26a76f70","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ccpp","servername":"ccpp.91pan.one","ws-headers":{"HOST":"ccpp.91pan.one"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3563","server":"172.67.178.127","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"26b5fbcf-d199-407e-e8bf-96d7489d247d","alterId":0,"cipher":"auto","network":"ws","ws-path":"/123","servername":"en1.wanwushenghua.me","ws-headers":{"HOST":"en1.wanwushenghua.me"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3564 |164.59Mb","server":"107.182.189.203","type":"vmess","country":"🇺🇸 US","port":29312,"uuid":"caf60e58-675c-4f43-fc69-b672fcb4b7ff","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇺🇸 US_3565","server":"20.205.37.136","type":"trojan","country":"🇺🇸 US","port":443,"password":"aef2ca33-b162-409f-8f16-4c736c338412","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3566","server":"168.138.189.17","type":"trojan","country":"🇺🇸 US","port":28443,"password":"ffcd5d19-d085-4ff1-b724-af203eaeea04","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3567","server":"45.88.148.234","type":"trojan","country":"🇺🇸 US","port":28443,"password":"ffcd5d19-d085-4ff1-b724-af203eaeea04","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3568","server":"155.248.172.87","type":"trojan","country":"🇺🇸 US","port":28443,"password":"ffcd5d19-d085-4ff1-b724-af203eaeea04","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3569","server":"141.147.191.85","type":"trojan","country":"🇺🇸 US","port":28443,"password":"ffcd5d19-d085-4ff1-b724-af203eaeea04","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3570 | 8.97Mb","server":"cd.rutracker-cn.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"ukMzuFSmIXDvgW0h","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3571 |41.42Mb","server":"phxv001.jd0001.top","type":"trojan","country":"🇺🇸 US","port":44302,"password":"4d111af8-5078-37e0-a583-34155f60b32c","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3572","server":"us-trojan.bonds.id","type":"trojan","country":"🇺🇸 US","port":443,"password":"38239dd0-902b-11eb-afc1-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3573 |47.12Mb","server":"us2.trojanvh.xyz","type":"trojan","country":"🇺🇸 US","port":80,"password":"255c924c-1314-4084-9a9e-1d1a82a5cf49","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3574","server":"www.anloao.cf","type":"trojan","country":"🇺🇸 US","port":9053,"password":"b64b0f9c-23df-3112-a790-d8aa068aa2fe","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3575","server":"184.168.127.50","type":"trojan","country":"🇺🇸 US","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3576 |36.19Mb","server":"trny.ballistics.top","type":"trojan","country":"🇺🇸 US","port":443,"password":"0c355515-b1e5-4c0a-b843-e1defbe7c0fa","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3577","server":"184.168.127.50","type":"trojan","country":"🇺🇸 US","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3578","server":"share.softbank.mjj-home.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"share.mjj-home.com","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3579","server":"184.168.127.50","type":"trojan","country":"🇺🇸 US","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3580","server":"us-trojan.bonds.id","type":"trojan","country":"🇺🇸 US","port":443,"password":"ccf1ee40-b4ab-11eb-b421-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3581","server":"ukt-1.opensvr.net","type":"trojan","country":"🇺🇸 US","port":443,"password":"opentunnel.net-zdrgvbhjnmhgfx","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3582","server":"singapore.anthoncloud.com","type":"trojan","country":"🇺🇸 US","port":3306,"password":"6589ce99-9ff7-3c1b-a744-ca3f4abfe386","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3583","server":"209.141.47.137","type":"trojan","country":"🇺🇸 US","port":443,"password":"b3d27d09-77fe-431d-9829-6eba7dce20b0","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3584 |28.67Mb","server":"ams.iqmtp.live","type":"trojan","country":"🇺🇸 US","port":443,"password":"3628ca8d-6371-45df-879c-2d3e5d110b51","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3585 |95.11Mb","server":"sfo.iqmtp.live","type":"trojan","country":"🇺🇸 US","port":443,"password":"3628ca8d-6371-45df-879c-2d3e5d110b51","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3586","server":"45.82.253.234","type":"trojan","country":"🇺🇸 US","port":28443,"password":"564f0597-8e7c-4aa9-95cc-51eb9480a4f3","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3587","server":"45.88.148.234","type":"trojan","country":"🇺🇸 US","port":28443,"password":"564f0597-8e7c-4aa9-95cc-51eb9480a4f3","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3588","server":"www.cjf0423.cf","type":"trojan","country":"🇺🇸 US","port":443,"password":"111111","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3589","server":"jgw4.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"b7e0e71f-070c-437a-9826-6e23caeb0307","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3590 |22.04Mb","server":"jp.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"8aab51da-6b67-4bd2-b6e6-5ab3008cf53e","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3591","server":"tw.softbank.mjj-home.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"share.mjj-home.com","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3592","server":"56789.gq","type":"trojan","country":"🇺🇸 US","port":443,"password":"dc1453e4-e5c4-4b30-bee3-6ed2adce9ee3","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3593","server":"209.141.47.137","type":"trojan","country":"🇺🇸 US","port":443,"password":"03f9d1c7-40f9-475c-bf46-e3883ee7da5f","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3594","server":"45.88.148.234","type":"trojan","country":"🇺🇸 US","port":28443,"password":"7f38669a-90f2-481f-8591-8a09c5108959","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3595 |14.87Mb","server":"permissions.freetrade.link","type":"trojan","country":"🇺🇸 US","port":443,"password":"lCYI0KOB8exTgp736ac3ZR3DnXwaOFS5pACRuZzSyeYy4N3j2D8qAxF9alDSEC","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3596 |26.22Mb","server":"listener.freetrade.link","type":"trojan","country":"🇺🇸 US","port":443,"password":"Z9TS0AeB8S5ZlpFNRea3aypDaXISOyzY67xCO33lF4gKq38jw2uDEnDYRCCxAc","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3597 |54.25Mb","server":"us2.trojanvh.xyz","type":"trojan","country":"🇺🇸 US","port":80,"password":"011eb011-c68e-4f92-80eb-f9bbef707bef","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3598 | 2.88Mb","server":"138.2.113.248","type":"trojan","country":"🇺🇸 US","port":443,"password":"9c822f05-cfdc-479a-9534-60f3d4127435","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3599 | 8.52Mb","server":"sky998dmit3.xyz","type":"trojan","country":"🇺🇸 US","port":443,"password":"RRy34GGwsPt47SuC","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3600 | 5.54Mb","server":"138.2.113.84","type":"trojan","country":"🇺🇸 US","port":443,"password":"b291d129-ee55-4801-a9b8-b5316e5c37b7","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3601","server":"t03.ssrsub.com.xyz","type":"trojan","country":"🇺🇸 US","port":443,"password":"640e3ef0-9c44-49a8-98f6-0895b11eecd6","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3602","server":"31.s7.gay","type":"trojan","country":"🇺🇸 US","port":443,"password":"107b0481-8181-47cc-9324-a178047cd8e4","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3603","server":"167.88.61.2","type":"trojan","country":"🇺🇸 US","port":443,"password":"Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3604 |13.54Mb","server":"sg-01.tiktokcdn.top","type":"trojan","country":"🇺🇸 US","port":443,"password":"bb5b1337-fa9e-4e00-b8c6-1110e626171d","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3605 |25.92Mb","server":"138.2.45.243","type":"trojan","country":"🇺🇸 US","port":443,"password":"c19d1432-8b3e-4818-8837-3d160cf65908","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3606","server":"141.147.191.85","type":"trojan","country":"🇺🇸 US","port":28443,"password":"c14bf6d2-be4b-4446-b6d2-c6a0bed19f9d","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3607 |19.90Mb","server":"150.230.217.213","type":"trojan","country":"🇺🇸 US","port":443,"password":"c09eb137-bf68-4658-84e0-102d94b74168","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3608 |34.73Mb","server":"150.230.96.103","type":"trojan","country":"🇺🇸 US","port":443,"password":"da777aae-defb-41d0-a183-2c27da2b4677","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3609","server":"155.248.172.87","type":"trojan","country":"🇺🇸 US","port":28443,"password":"c14bf6d2-be4b-4446-b6d2-c6a0bed19f9d","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3610 | 5.25Mb","server":"129.146.190.42","type":"trojan","country":"🇺🇸 US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3611","server":"upay.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3612","server":"168.138.189.17","type":"trojan","country":"🇺🇸 US","port":28443,"password":"c14bf6d2-be4b-4446-b6d2-c6a0bed19f9d","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3613 |10.58Mb","server":"152.67.162.166","type":"trojan","country":"🇺🇸 US","port":443,"password":"e05c749b-7c6b-41b8-9c71-9dcf685edf4a","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3614 | 9.48Mb","server":"152.67.190.183","type":"trojan","country":"🇺🇸 US","port":443,"password":"006baa3f-4bc3-4915-b60d-c8c5dae11a11","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3615 |13.03Mb","server":"159.223.89.239","type":"trojan","country":"🇺🇸 US","port":443,"password":"bb5b1337-fa9e-4e00-b8c6-1110e626171d","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3616","server":"trld.ballistics.top","type":"trojan","country":"🇺🇸 US","port":443,"password":"0c355515-b1e5-4c0a-b843-e1defbe7c0fa","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3617 | 8.73Mb","server":"152.67.160.174","type":"trojan","country":"🇺🇸 US","port":443,"password":"54080134-2cba-4535-8599-95650bd9aa54","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3618 |10.46Mb","server":"trxjp.ballistics.top","type":"trojan","country":"🇺🇸 US","port":443,"password":"0c355515-b1e5-4c0a-b843-e1defbe7c0fa","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3619 | 7.62Mb","server":"jgwhdlb2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"54080134-2cba-4535-8599-95650bd9aa54","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3620 |11.37Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3621 |29.45Mb","server":"jgwdb2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"c19d1432-8b3e-4818-8837-3d160cf65908","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3622 |32.29Mb","server":"jgwdj3.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"da777aae-defb-41d0-a183-2c27da2b4677","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3623 |23.59Mb","server":"jgwdj4.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"c09eb137-bf68-4658-84e0-102d94b74168","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3624 |103.54Mb","server":"ml.xxass.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"caonima2022","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3625","server":"hk2.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"e680d8cf-07f4-3e06-b29a-06c52b258232","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3626","server":"sg2.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"e680d8cf-07f4-3e06-b29a-06c52b258232","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3627","server":"usla2.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"e680d8cf-07f4-3e06-b29a-06c52b258232","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3628","server":"kh2.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"e680d8cf-07f4-3e06-b29a-06c52b258232","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3629 | 8.44Mb","server":"jgwhdlb1.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"e05c749b-7c6b-41b8-9c71-9dcf685edf4a","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3630 | 4.23Mb","server":"138.2.115.240","type":"trojan","country":"🇺🇸 US","port":443,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3631","server":"51.81.82.15","type":"trojan","country":"🇺🇸 US","port":443,"password":"c2b0a060-44b0-11ed-ad2e-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3632 |102.73Mb","server":"45.82.253.234","type":"trojan","country":"🇺🇸 US","port":28443,"password":"750a29bf-0a40-437f-b120-38de74ae7eaf","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3633 |80.79Mb","server":"45.88.148.234","type":"trojan","country":"🇺🇸 US","port":28443,"password":"750a29bf-0a40-437f-b120-38de74ae7eaf","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3634","server":"hgc.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"2ac7fc8a-68b5-4809-8bd2-73a593bae292","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3635","server":"jp.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"2ac7fc8a-68b5-4809-8bd2-73a593bae292","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3636","server":"lux.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"2ac7fc8a-68b5-4809-8bd2-73a593bae292","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3637","server":"168.138.189.17","type":"trojan","country":"🇺🇸 US","port":28443,"password":"41dbac14-48c9-402a-9c30-a63acbae2522","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3638","server":"kh.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3639","server":"usla.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3640","server":"sg.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3641","server":"jp.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3642","server":"ar.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3643 |10.31Mb","server":"jgwcc2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"9c822f05-cfdc-479a-9534-60f3d4127435","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3644","server":"de.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3645","server":"lux.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3646","server":"hgc.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3647 | 7.63Mb","server":"ussj.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"28bccca2-43d2-47f8-bd63-b1361ce7d362","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3648 | 1.75Mb","server":"kh.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"28bccca2-43d2-47f8-bd63-b1361ce7d362","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3649 | 2.29Mb","server":"de.iamnotagoodman.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"28bccca2-43d2-47f8-bd63-b1361ce7d362","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3650","server":"jp.liangyuandian.top","type":"trojan","country":"🇺🇸 US","port":443,"password":"53f20cd4-b381-4a80-8059-7bcd484bbb52","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3651","server":"ap.liangyuandian.top","type":"trojan","country":"🇺🇸 US","port":443,"password":"53f20cd4-b381-4a80-8059-7bcd484bbb52","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3652","server":"sg.liangyuandian.top","type":"trojan","country":"🇺🇸 US","port":443,"password":"53f20cd4-b381-4a80-8059-7bcd484bbb52","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3653 |27.99Mb","server":"155.248.172.87","type":"trojan","country":"🇺🇸 US","port":28443,"password":"750a29bf-0a40-437f-b120-38de74ae7eaf","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3654 |10.49Mb","server":"168.138.189.17","type":"trojan","country":"🇺🇸 US","port":28443,"password":"750a29bf-0a40-437f-b120-38de74ae7eaf","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3655","server":"141.147.191.85","type":"trojan","country":"🇺🇸 US","port":28443,"password":"750a29bf-0a40-437f-b120-38de74ae7eaf","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3656 | 8.56Mb","server":"kr05.wangxd.life","type":"trojan","country":"🇺🇸 US","port":443,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3657","server":"my01.awcloud.top","type":"trojan","country":"🇺🇸 US","port":443,"password":"eaf5fd79-aed6-433e-a56a-2f3aae00f883","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3658 |12.94Mb","server":"ust-2.opensvr.net","type":"trojan","country":"🇺🇸 US","port":443,"password":"opentunnel.net-j6rtj4rtjrs56j","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3659","server":"45.82.253.237","type":"trojan","country":"🇺🇸 US","port":28443,"password":"a1b16d10-4f43-4dd9-8c4f-52065b2b0910","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3660","server":"45.88.148.237","type":"trojan","country":"🇺🇸 US","port":28443,"password":"a1b16d10-4f43-4dd9-8c4f-52065b2b0910","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3661 | 4.11Mb","server":"jgwcc3.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"b291d129-ee55-4801-a9b8-b5316e5c37b7","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_3662 | 6.35Mb","server":"kr05.wangxd.life","type":"trojan","country":"🇺🇸 US","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
