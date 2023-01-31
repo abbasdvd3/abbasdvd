@@ -436,7 +436,7 @@ proxy-groups:
 - name: STREAMING
   type: url-test
   url: http://www.gstatic.com/generate_204
-  interval: 10
+  interval: 150
   health-check:
   enable: true
   disable-udp: false
