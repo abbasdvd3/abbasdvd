@@ -2,7 +2,7 @@ mixed-port: 7890
 allow-lan: false
 mode: rule
 log-level: info
-external-controller: 127.0.0.1:9090
+external-controller: 0.0.0.0:9090
 proxies:
 proxy-providers:
   VPN1:
@@ -523,9 +523,8 @@ proxy-groups:
   interval: 600
 - name: best
   type: url-test
-  url: http://hi.bonds.id/ping
+  url: http://www.gstatic.com/generate_204
   interval: 500
-  tolerance: 150
   health-check:
   enable: true
   disable-udp: false
@@ -537,9 +536,8 @@ proxy-groups:
   - VPN5
 - name: best1
   type: url-test
-  url: http://hi.bonds.id/ping
+  url: http://www.gstatic.com/generate_204
   interval: 500
-  tolerance: 150
   health-check:
   enable: true
   disable-udp: false
@@ -553,9 +551,8 @@ proxy-groups:
   - VPN13
 - name: best2
   type: url-test
-  url: http://hi.bonds.id/ping
+  url: http://www.gstatic.com/generate_204
   interval: 500
-  tolerance: 150
   health-check:
   enable: true
   disable-udp: false
@@ -568,9 +565,8 @@ proxy-groups:
   - VPN12
 - name: best3
   type: url-test
-  url: http://hi.bonds.id/ping
+  url: http://www.gstatic.com/generate_204
   interval: 500
-  tolerance: 150
   health-check:
   enable: true
   disable-udp: false
@@ -593,9 +589,8 @@ proxy-groups:
   - ss    
 - name: best4
   type: url-test
-  url: http://hi.bonds.id/ping
+  url: http://www.gstatic.com/generate_204
   interval: 500
-  tolerance: 150
   health-check:
   enable: true
   disable-udp: false
