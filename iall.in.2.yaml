@@ -1,0 +1,628 @@
+proxies:
+proxy-providers:
+  VPN1:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN1.yaml"
+    path: proxy_provider/VPN1.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200
+  VPN2:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN2.yaml"
+    path: proxy_provider/VPN2.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200
+  VPN3:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN3.yaml"
+    path: proxy_provider/VPN3.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200
+  VPN4:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN4.yaml"
+    path: proxy_provider/VPN4.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200
+  VPN5:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN5.yaml"
+    path: proxy_provider/VPN5.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200
+  VPN6:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN6.yaml"
+    path: proxy_provider/VPN6.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200
+  VPN7:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN7.yaml"
+    path: proxy_provider/VPN7.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200
+  VPN8:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN8.yaml"
+    path: proxy_provider/VPN8.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200
+  VPN9:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN9.yaml"
+    path: proxy_provider/VPN9.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200
+  VPN10:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN10.yaml"
+    path: proxy_provider/VPN10.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200
+  VPN11:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN11.yaml"
+    path: proxy_provider/VPN11.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200
+  VPN12:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN12.yaml"
+    path: proxy_provider/VPN12.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200
+  VPN13:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN13.yaml"
+    path: proxy_provider/VPN13.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200 
+  VPN14:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN14.yaml"
+    path: proxy_provider/VPN14.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200 
+  VPN15:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN15.yaml"
+    path: proxy_provider/VPN15.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200 
+  VPN16:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN16.yaml"
+    path: proxy_provider/VPN16.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200 
+  VPN17:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN17.yaml"
+    path: proxy_provider/VPN17.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200 
+  VPN18:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN18.yaml"
+    path: proxy_provider/VPN18.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200 
+  VPN19:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN19.yaml"
+    path: proxy_provider/VPN19.yaml
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 200 
+  au:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-au.yaml"
+    path: proxy_provider/provider-au.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  cn:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-cn.yaml"
+    path: proxy_provider/provider-cn.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  us:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-us.yaml"
+    path: proxy_provider/provider-us.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  ca:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-ca.yaml"
+    path: proxy_provider/provider-ca.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  jp:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-jp.yaml"
+    path: proxy_provider/provider-jp.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  sg:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-sg.yaml"
+    path: proxy_provider/provider-sg.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  ru:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-ru.yaml"
+    path: proxy_provider/provider-ru.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  ch:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-ch.yaml"
+    path: proxy_provider/provider-ch.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  de:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-de.yaml"
+    path: proxy_provider/provider-de.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  fr:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-fr.yaml"
+    path: proxy_provider/provider-fr.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  gb:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-gb.yaml"
+    path: proxy_provider/provider-gb.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  nl:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-nl.yaml"
+    path: proxy_provider/provider-nl.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  others1:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-others1.yaml"
+    path: proxy_provider/provider-others1.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  all:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/others1.yaml"
+    path: proxy_provider/provider1.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  China:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-China.yaml"
+    path: proxy_provider/provider-China.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 300
+      url: http://www.gstatic.com/generate_204
+  HongKong:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-HongKong.yaml"
+    path: proxy_provider/provider-HongKong.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204
+  Taiwan:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-Taiwan.yaml"
+    path: proxy_provider/provider-Taiwan.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204 
+  Speed:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-Speed.yaml"
+    path: proxy_provider/provider-Speed.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204      
+  Relay:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-Relay.yaml"
+    path: proxy_provider/provider-Relay.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204
+  Pool:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-Pool.yaml"
+    path: proxy_provider/provider-Pool.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204 
+  ss:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-ss.yaml"
+    path: proxy_provider/provider-ss.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204
+  ssr:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-ssr.yaml"
+    path: proxy_provider/provider-ssr.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204
+  v2ray:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-vmess.yaml"
+    path: proxy_provider/provider-vmess.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204 
+  trojan:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-trojan.yaml"
+    path: proxy_provider/provider-trojan.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204      
+  Asia:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-Asia.yaml"
+    path: proxy_provider/provider-Asia.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204 
+  NorthAmerica:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/Provider-North America.yaml"
+    path: proxy_provider/Provider-North America.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204      
+  SouthAmerica:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-Oceania.yaml"
+    path: proxy_provider/provider-South America.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204
+  Oceania:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-Oceania.yaml"
+    path: proxy_provider/provider-Oceania.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204
+  Europe:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-Europe.yaml"
+    path: proxy_provider/provider-Europe.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204
+  Africa:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/Provider-Africa.yaml"
+    path: proxy_provider/Provider-Africa.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204
+  others:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider-others.yaml"
+    path: proxy_provider/provider-others.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204
+  Global:
+    type: http
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/provider.yaml"
+    path: proxy_provider/provider.yaml
+    interval: 60
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204
+proxy-groups:
+- name: STREAMING
+  type: select
+  health-check:
+  enable: true
+  disable-udp: false
+  proxies:
+  - best
+  - best1  
+  - best2
+  - best3
+  - best4
+  - LOADBALANCE  
+- name: proxy
+  type: select
+  health-check:
+  enable: true
+  disable-udp: false
+  proxies:
+  - best
+  - best1  
+  - best2
+  - best3
+  - best4
+  - LOADBALANCE 
+  - DIRECT
+  url: http://www.gstatic.com/generate_204
+  interval: 500
+- name: LOADBALANCE
+  type: load-balance
+  strategy: round-robin
+  health-check:
+  enable: true
+  disable-udp: false
+  use:
+  - VPN1
+  - VPN2
+  - VPN3
+  - VPN4
+  - VPN5
+  - VPN6
+  - VPN7
+  - VPN9
+  - VPN8
+  - VPN10
+  - VPN11
+  - VPN12
+  - VPN13
+  - VPN14
+  - VPN15
+  - VPN16
+  - VPN17
+  - VPN18
+  - VPN19
+  - au
+  - cn
+  - us
+  - ca
+  - jp       
+  - Europe
+  - others1
+  - all
+  - China  
+  - HongKong
+  - Taiwan
+  - Speed
+  - Relay
+  - Pool
+  - ssr
+  - ss
+  - v2ray
+  - trojan
+  - Asia            
+  - Oceania
+  - SouthAmerica
+  - NorthAmerica
+  - Africa
+  - others
+  - Global
+  - sg 
+  - ru 
+  - ch
+  - de
+  - fr
+  - gb
+  - nl
+  url: http://www.gstatic.com/generate_204
+  interval: 600
+- name: best
+  type: url-test
+  url: http://hi.bonds.id/ping
+  interval: 500
+  tolerance: 150
+  health-check:
+  enable: true
+  disable-udp: false
+  use:
+  - VPN1
+  - VPN2
+  - VPN3
+  - VPN4
+  - VPN5
+- name: best1
+  type: url-test
+  url: http://hi.bonds.id/ping
+  interval: 500
+  tolerance: 150
+  health-check:
+  enable: true
+  disable-udp: false
+  use:
+  - VPN19
+  - VPN18
+  - VPN17
+  - VPN16
+  - VPN15
+  - VPN14
+  - VPN13
+- name: best2
+  type: url-test
+  url: http://hi.bonds.id/ping
+  interval: 500
+  tolerance: 150
+  health-check:
+  enable: true
+  disable-udp: false
+  use:
+  - VPN6
+  - VPN8
+  - VPN9
+  - VPN10
+  - VPN11
+  - VPN12
+- name: best3
+  type: url-test
+  url: http://hi.bonds.id/ping
+  interval: 500
+  tolerance: 150
+  health-check:
+  enable: true
+  disable-udp: false
+  use:
+  - au
+  - cn
+  - us
+  - ca
+  - jp       
+  - Europe
+  - others1
+  - all
+  - China  
+  - HongKong
+  - Taiwan
+  - Speed
+  - Relay
+  - Pool
+  - ssr
+  - ss    
+- name: best4
+  type: url-test
+  url: http://hi.bonds.id/ping
+  interval: 500
+  tolerance: 150
+  health-check:
+  enable: true
+  disable-udp: false
+  use:
+  - v2ray
+  - trojan
+  - Asia            
+  - Oceania
+  - SouthAmerica
+  - NorthAmerica
+  - Africa
+  - others
+  - Global
+  - sg 
+  - ru 
+  - ch
+  - de
+  - fr
+  - gb
+  - nl
+rules:
+  - IP-CIDR,127.0.0.1/32,REJECT,no-resolve,udp
+  - IP-CIDR6,::1/128,REJECT,no-resolve,udp
+  # network(tcp/udp) condition for all rules 
+  - DOMAIN-SUFFIX,ad.com,REJECT,udp
+  - SRC-IP-CIDR,192.168.1.201/32,DIRECT,tcp
+  - DOMAIN-SUFFIX,bilibili.com,DIRECT,tcp
+  - DOMAIN-SUFFIX,bilibili.com,REJECT,udp
+  - DOMAIN-SUFFIX,github.com,DIRECT,no-resolve,tcp
+  - DOMAIN-SUFFIX,github.io,DIRECT,no-resolve,tcp
+  - DOMAIN-SUFFIX,githubapp.com,DIRECT,no-resolve,tcp
+  - DOMAIN-SUFFIX,githubassets.com,DIRECT,no-resolve,tcp
+  - DOMAIN-SUFFIX,githubusercontent.com,DIRECT,no-resolve,tcp
+  - DOMAIN-KEYWORD,github,DIRECT,no-resolve,tcp
+  - DOMAIN-KEYWORD,appteka.store,DIRECT
+  - DOMAIN-SUFFIX,collector.githubapp.com,DIRECT,no-resolve,tcp
+  - MATCH,STREAMING
