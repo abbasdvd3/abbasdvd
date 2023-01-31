@@ -51,7 +51,7 @@ proxy-providers:
   VPN7:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN7.yaml"
-    path: "./proxy_provider1/VPN7.yaml
+    path: proxy_provider/VPN7.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
