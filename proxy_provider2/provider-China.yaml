@@ -1,0 +1,41 @@
+proxies:
+- {"name":"🇨🇳 CN_208","server":"14.29.124.168","type":"ss","country":"🇨🇳 CN","port":25235,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳 CN_209","server":"14.29.124.168","type":"ss","country":"🇨🇳 CN","port":25296,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_210","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25284,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_211","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25266,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_212","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25294,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_213","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25226,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_214","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25295,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_215","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25238,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_216","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25279,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_217","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25218,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_218","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25267,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_219","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25222,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_220","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25210,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_221","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25254,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_222","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25272,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_223","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25247,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_224","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25233,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_225","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25259,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_226","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25251,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_227","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25270,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_228","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25286,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_229","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25280,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_230","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25217,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_231","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25220,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_232","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25252,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_233","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25297,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_234","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25207,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_235","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25261,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_236","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25230,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_237","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25268,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_238","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25219,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_239","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25245,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_240","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25231,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_241","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25271,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"🇨🇳CN_242","server":"124.221.131.176","type":"vmess","country":"🇨🇳CN","port":50797,"uuid":"fa4b6f8f-1264-45ec-9651-6160c12cabc5","alterId":0,"cipher":"auto","network":"http","servername":"124.221.131.176","http-opts":{"method":"GET","path":["/"]},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇨🇳CN-🇸🇬SG_243","server":"sqyd.biubiufly.monster","type":"vmess","country":"🇨🇳CN","port":50021,"uuid":"242bf205-7fea-3667-b1e6-141327dd9225","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Pool_🇨🇳CN_244","server":"202.79.171.157","type":"vmess","country":"🇨🇳CN","port":443,"uuid":"fb3583a3-7717-4fe5-9146-3301861f9f41","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/243535322906","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇨🇳CN_245","server":"112.132.215.189","type":"vmess","country":"🇨🇳CN","port":50002,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇨🇳CN_246","server":"39.103.165.178","type":"vmess","country":"🇨🇳CN","port":50002,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"cipher":"auto","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"Relay_🇨🇳CN-🇺🇸US_247","server":"117.164.185.222","type":"vmess","country":"🇨🇳CN","port":16119,"uuid":"8d8d6d3d-b9ef-30b7-9cc6-3ebf5e3d70f9","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}

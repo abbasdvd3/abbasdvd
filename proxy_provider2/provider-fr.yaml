@@ -1,0 +1,39 @@
+proxies:
+- {"name":"🇫🇷 FR_2608 |37.04Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2609 |35.30Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2610","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2611 |33.85Mb","server":"54.36.174.181","type":"ss","country":"🇫🇷 FR","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2612 |37.15Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2613 |36.13Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2614 |37.63Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2615 |38.18Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2616","server":"62.210.222.195","type":"ss","country":"🇫🇷 FR","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2617 |34.82Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2618 |36.33Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2619 |33.85Mb","server":"54.36.174.181","type":"ss","country":"🇫🇷 FR","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2620 |36.92Mb","server":"195.154.200.150","type":"ss","country":"🇫🇷 FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2621","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2622 |36.57Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2623 |34.25Mb","server":"54.36.174.181","type":"ss","country":"🇫🇷 FR","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2624 |37.41Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2625 |36.88Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2626 |35.95Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2627 |33.43Mb","server":"54.36.174.181","type":"ss","country":"🇫🇷 FR","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2628 |35.53Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2629 |33.56Mb","server":"54.36.174.181","type":"ss","country":"🇫🇷 FR","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2630 |36.63Mb","server":"195.154.200.150","type":"ss","country":"🇫🇷 FR","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2631 |28.47Mb","server":"54.36.174.181","type":"ss","country":"🇫🇷 FR","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2632 |32.68Mb","server":"54.36.174.181","type":"ss","country":"🇫🇷 FR","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2633 |33.56Mb","server":"54.36.174.181","type":"ss","country":"🇫🇷 FR","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2634 |36.49Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2635 |35.65Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_2636 | 8.87Mb","server":"51.75.76.22","type":"trojan","country":"🇫🇷 FR","port":443,"password":"c60fbf90-4b55-11ed-b935-225401db9d57","skip-cert-verify":true,"udp":true}
+- {"name":"🇫🇷 FR_2637","server":"62.210.254.72","type":"trojan","country":"🇫🇷 FR","port":28443,"password":"c14bf6d2-be4b-4446-b6d2-c6a0bed19f9d","skip-cert-verify":true,"udp":true}
+- {"name":"🇫🇷 FR_2638","server":"62.210.254.72","type":"trojan","country":"🇫🇷 FR","port":28443,"password":"750a29bf-0a40-437f-b120-38de74ae7eaf","skip-cert-verify":true,"udp":true}
+- {"name":"🇫🇷 FR_2639 |13.44Mb","server":"ukt-2.opensvr.net","type":"trojan","country":"🇫🇷 FR","port":443,"password":"opentunnel.net-trhrst5ju45s","skip-cert-verify":true,"udp":true}
+- {"name":"🇫🇷 FR_2640","server":"fr-trojan.bonds.id","type":"trojan","country":"🇫🇷 FR","port":443,"password":"7c9b7560-b0f7-11eb-a397-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇫🇷 FR_2641 |11.03Mb","server":"de.tjvpn.org","type":"trojan","country":"🇫🇷 FR","port":443,"password":"c60fbf90-4b55-11ed-b935-225401db9d57","skip-cert-verify":true,"udp":true}
+- {"name":"🇫🇷 FR_2642","server":"176.31.83.90","type":"trojan","country":"🇫🇷 FR","port":443,"password":"origin","skip-cert-verify":true,"udp":true}
+- {"name":"🇫🇷 FR_2643","server":"upload.soft98.download","type":"trojan","country":"🇫🇷 FR","port":443,"password":"a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671","skip-cert-verify":true,"udp":true}
+- {"name":"🇫🇷 FR_2644","server":"fr-trojan.bonds.id","type":"trojan","country":"🇫🇷 FR","port":443,"password":"e4307a50-9853-11ec-9b4b-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇫🇷 FR_2645","server":"ukt-2.opensvr.net","type":"trojan","country":"🇫🇷 FR","port":443,"password":"opentunnel.net-rw8uuv207taq","skip-cert-verify":true,"udp":true}

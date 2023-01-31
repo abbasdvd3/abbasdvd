@@ -1,0 +1,2 @@
+proxies:
+- {"name":"🇷🇺 RU_3063 | 6.14Mb","server":"194.156.99.39","type":"trojan","country":"🇷🇺 RU","port":443,"password":"xxoo","skip-cert-verify":true,"udp":true}

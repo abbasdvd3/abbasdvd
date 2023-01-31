@@ -1,0 +1,54 @@
+proxies:
+- {"name":"🇸🇬 SG_3064 |10.82Mb","server":"139.162.5.19","type":"ss","country":"🇸🇬 SG","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb"}
+- {"name":"🇸🇬 SG_3065 |10.47Mb","server":"swvq.cejiy.com","type":"ss","country":"🇸🇬 SG","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬 SG_3072 | 7.49Mb","server":"139.162.41.174","type":"ss","country":"🇸🇬 SG","port":8099,"password":"eIW0Dnk69454e6nSwuspv9DmS201tQ0D","cipher":"aes-256-cfb"}
+- {"name":"🇸🇬 SG_3076 |11.14Mb","server":"139.99.68.21","type":"ss","country":"🇸🇬 SG","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
+- {"name":"🇸🇬 SG_3081 | 9.85Mb","server":"ap.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"51c44c4e-f8c2-4419-a52b-b4b7bd915078","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3082","server":"sg2-trojan.bonds.id","type":"trojan","country":"🇸🇬 SG","port":443,"password":"f1a23bf0-1c92-11ed-b6d8-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3083","server":"sg6-trojan.bonds.id","type":"trojan","country":"🇸🇬 SG","port":443,"password":"81e9f5f0-1c92-11ed-8d18-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3084 |11.65Mb","server":"jp.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"51c44c4e-f8c2-4419-a52b-b4b7bd915078","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3085 |10.24Mb","server":"ca.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"51c44c4e-f8c2-4419-a52b-b4b7bd915078","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3086 |18.74Mb","server":"sg.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"51c44c4e-f8c2-4419-a52b-b4b7bd915078","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3087 | 7.92Mb","server":"ap.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"192a5fc9-2baa-4043-8655-d840d370cb86","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3088 |12.06Mb","server":"sg.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"192a5fc9-2baa-4043-8655-d840d370cb86","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3089 |10.60Mb","server":"jp.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"192a5fc9-2baa-4043-8655-d840d370cb86","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3090","server":"usa.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"cc55e294-b76f-425a-9301-c18afbecaa22","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3091","server":"jp.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"cc55e294-b76f-425a-9301-c18afbecaa22","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3092 |70.04Mb","server":"54.179.182.190","type":"trojan","country":"🇸🇬 SG","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3093 |17.06Mb","server":"18.140.67.76","type":"trojan","country":"🇸🇬 SG","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3094 |23.11Mb","server":"18.141.8.87","type":"trojan","country":"🇸🇬 SG","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3095 |10.07Mb","server":"ap.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"176196e4-7cf7-4561-87a9-21a1b4e344be","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3096","server":"ap.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"cc55e294-b76f-425a-9301-c18afbecaa22","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3097","server":"ca.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"cc55e294-b76f-425a-9301-c18afbecaa22","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3098 |21.51Mb","server":"usa.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"53f20cd4-b381-4a80-8059-7bcd484bbb52","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3099","server":"de.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"176196e4-7cf7-4561-87a9-21a1b4e344be","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3100 |22.99Mb","server":"jp.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"176196e4-7cf7-4561-87a9-21a1b4e344be","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3101","server":"sg.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"cc55e294-b76f-425a-9301-c18afbecaa22","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3102","server":"de.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"cc55e294-b76f-425a-9301-c18afbecaa22","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3103","server":"uk.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"cc55e294-b76f-425a-9301-c18afbecaa22","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3104 |11.37Mb","server":"sg.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"ceaea123-1b4b-469b-8358-bcd5f5529305","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3105 | 9.99Mb","server":"sg6-trojan.bonds.id","type":"trojan","country":"🇸🇬 SG","port":443,"password":"941a3ea0-2d2f-11ed-9982-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3106 |67.19Mb","server":"usa.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"176196e4-7cf7-4561-87a9-21a1b4e344be","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3107 |20.93Mb","server":"jp.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"ceaea123-1b4b-469b-8358-bcd5f5529305","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3108 |18.16Mb","server":"sg1-trojan.bonds.id","type":"trojan","country":"🇸🇬 SG","port":443,"password":"27d01290-3763-11ed-90db-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3109 | 9.74Mb","server":"usa.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"ceaea123-1b4b-469b-8358-bcd5f5529305","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3110","server":"w12.udpgw.com","type":"trojan","country":"🇸🇬 SG","port":443,"password":"08964210-e7b8-11ec-95aa-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3111","server":"sg1-trojan.bonds.id","type":"trojan","country":"🇸🇬 SG","port":443,"password":"5c5ceb40-902b-11eb-945a-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3112","server":"hk31.ssgnode.ga","type":"trojan","country":"🇸🇬 SG","port":443,"password":"41742_920c8caa","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3113","server":"sg3-trojan.bonds.id","type":"trojan","country":"🇸🇬 SG","port":443,"password":"4c7985e0-79e8-11eb-b8d3-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3114 | 8.86Mb","server":"uk.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"ceaea123-1b4b-469b-8358-bcd5f5529305","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3115 | 9.13Mb","server":"de.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"ceaea123-1b4b-469b-8358-bcd5f5529305","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3116 |10.01Mb","server":"ca.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"ceaea123-1b4b-469b-8358-bcd5f5529305","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3117","server":"sg.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"2b2b1b4f-3372-47f7-9f90-26097c7683f9","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3118","server":"73hk02.ok365.cyou","type":"trojan","country":"🇸🇬 SG","port":443,"password":"6f42acc5-995e-4060-9292-f7cc7641a830","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3119","server":"73hk02.ok365.cyou","type":"trojan","country":"🇸🇬 SG","port":443,"password":"f78a9262-fa0a-4aa3-8050-99be924c0d0c","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3120 | 9.95Mb","server":"ap.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"ceaea123-1b4b-469b-8358-bcd5f5529305","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3121","server":"jp.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"18304160-03d4-4c55-95c1-586c0a5f3a0a","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3122","server":"uk.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"18304160-03d4-4c55-95c1-586c0a5f3a0a","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3123","server":"ap.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"18304160-03d4-4c55-95c1-586c0a5f3a0a","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3124","server":"ap.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"b341f309-7e2b-45c4-a316-9e23037e3711","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3125","server":"sg.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"b341f309-7e2b-45c4-a316-9e23037e3711","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3126","server":"sg1-trojan.bonds.id","type":"trojan","country":"🇸🇬 SG","port":443,"password":"71086710-33eb-11ed-adce-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3127","server":"sg3-trojan.bonds.id","type":"trojan","country":"🇸🇬 SG","port":443,"password":"97fdf760-7bbf-11eb-8e14-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3128","server":"jp.liangyuandian.top","type":"trojan","country":"🇸🇬 SG","port":443,"password":"92686865-4cda-49a9-88af-c2c811db3403","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬 SG_3129","server":"sgt-1.opensvr.net","type":"trojan","country":"🇸🇬 SG","port":443,"password":"opentunnel.net-1l1tdr1hmcq7g32ndx7g","skip-cert-verify":true,"udp":true}
