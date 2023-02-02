@@ -663,7 +663,7 @@ proxy-groups:
   - gb
   - nl
 rules:
- - IP-CIDR,127.0.0.1/32,REJECT,no-resolve,udp
+  - IP-CIDR,127.0.0.1/32,REJECT,no-resolve,udp
   - IP-CIDR6,::1/128,REJECT,no-resolve,udp
   # network(tcp/udp) condition for all rules 
   - DOMAIN-SUFFIX,ad.com,REJECT,udp
