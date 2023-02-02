@@ -435,7 +435,7 @@ proxy-groups:
 - name: STREAMING
   type: url-test
   url: http://www.gstatic.com/generate_204
-  interval: 150
+  interval: 300
   health-check:
   enable: true
   disable-udp: false
@@ -459,11 +459,64 @@ proxy-groups:
   - best4
   - LOADBALANCE 
   - DIRECT
+  use:
+  - VPN1
+  - VPN2
+  - VPN3
+  - VPN4
+  - VPN5
+  - VPN6
+  - VPN7
+  - VPN9
+  - VPN8
+  - VPN10
+  - VPN11
+  - VPN12
+  - VPN13
+  - VPN14
+  - VPN15
+  - VPN16
+  - VPN17
+  - VPN18
+  - VPN19
+  - au
+  - cn
+  - us
+  - ca
+  - jp       
+  - Europe
+  - others1
+  - all
+  - China  
+  - HongKong
+  - Taiwan
+  - Speed
+  - Relay
+  - Pool
+  - ssr
+  - ss
+  - v2ray
+  - trojan
+  - Asia            
+  - Oceania
+  - SouthAmerica
+  - NorthAmerica
+  - Africa
+  - others
+  - Global
+  - sg 
+  - ru 
+  - ch
+  - de
+  - fr
+  - gb
+  - nl
   url: http://www.gstatic.com/generate_204
   interval: 500
 - name: LOADBALANCE
-  type: load-balance
-  strategy: round-robin
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+  interval: 500
   health-check:
   enable: true
   disable-udp: false
@@ -519,8 +572,6 @@ proxy-groups:
   - fr
   - gb
   - nl
-  url: http://www.gstatic.com/generate_204
-  interval: 600
 - name: best
   type: url-test
   url: http://www.gstatic.com/generate_204
