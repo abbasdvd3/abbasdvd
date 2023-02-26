@@ -1,26 +1,22 @@
 mixed-port: 7890
 redir-port: 7892
 tproxy-port: 7893
-secret: '123456'
-external-ui: yacd.metacubex.one
 log-level: debug
-bind-address: '*'
-interface-name: eth0
-external-controller: 0.0.0.0:9090
-authentication: []
-ebpf:
-  redirect-to-tun: eth0
 allow-lan: true
-
+external-controller: 0.0.0.0:9090
 proxies:
 
 proxy-groups:
-  - name: 🌋
-    type: select
+- name: ♻️ 
   type: url-test
   url: http://www.google.com
-  health-check:
-  enable: true
+  interval: 300
+  tolerance: 50
+  proxies:
+  - 🌋 
+- name: 🌋
+  type: select
+  url: http://www.google.com
   disable-udp: false
   use:
   - au
