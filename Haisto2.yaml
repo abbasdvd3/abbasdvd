@@ -9,7 +9,6 @@ proxies:
 proxy-groups:
 - name: 🌋
   type: select
-  type: url-test
   url: http://www.google.com
   disable-udp: false
   use:
