@@ -785,7 +785,7 @@ proxy-groups:
 - name: 🌋
   type: select
   proxies:
-  - proxy 
+  - 🔱proxy🔱 
 - name: 🔱proxy🔱
   type: url-test
   url: http://www.google.com
