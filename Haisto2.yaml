@@ -8,7 +8,6 @@ proxies:
 
 proxy-groups:
 - name: 🌋
-  type: select
   type: url-test
   url: http://www.google.com
   health-check:
