@@ -4,12 +4,11 @@ tproxy-port: 7893
 log-level: debug
 allow-lan: true
 external-controller: 0.0.0.0:9090
-
 proxies:
 
 proxy-groups:
-  - name: 🌋
-    type: select
+- name: 🌋
+  type: select
   type: url-test
   url: http://www.google.com
   health-check:
