@@ -1,0 +1,99 @@
+
+proxies:
+  - name: HK_598 |54.30Mb
+    server: 182.16.1.194
+    port: 80
+    type: vmess
+    uuid: 00a1da14-d55f-5f75-e346-79b985e1a723
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: 182.16.1.194
+    network: ws
+    ws-opts:
+      path: /opt/video/images
+      headers:
+        Host: 182.16.1.194
+    udp: true
+  - name: HK_599 |54.72Mb
+    server: hrgdvpn.flycdnedc55.vip
+    port: 80
+    type: vmess
+    uuid: 00a1da14-d55f-5f75-e346-79b985e1a723
+    alterId: 32
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: hrgdvpn.flycdnedc55.vip
+    network: ws
+    ws-opts:
+      path: /opt/video/images
+      headers:
+        Host: hrgdvpn.flycdnedc55.vip
+    udp: true
+  - name: US_1251 |42.56Mb
+    server: 129.159.41.233
+    port: 32586
+    type: vmess
+    uuid: 341a9182-c423-499c-c46e-d17838b29037
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    udp: true
+  - name: US_1252 |40.56Mb
+    server: 152.69.197.60
+    port: 1069
+    type: vmess
+    uuid: ac8e26fe-8150-4b60-ae64-82fc77eba2cf
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    udp: true
+  - name: US_1253 |10.66Mb
+    server: 161.129.34.102
+    port: 443
+    type: vmess
+    uuid: ec736482-173e-3eff-9114-b49df8056e7d
+    alterId: 2
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: ""
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: ""
+    udp: true
+  - name: US_1254 |152.74Mb
+    server: 168.138.207.66
+    port: 21365
+    type: vmess
+    uuid: 905f99b1-e7ba-45e0-ae4d-b0ffdf0ad245
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    udp: true
+  - name: US_1255 |11.35Mb
+    server: lc-kr02-direct01.lc-kr02.lc-node.com
+    port: 443
+    type: vmess
+    uuid: ec736482-173e-3eff-9114-b49df8056e7d
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: lc-kr02-direct01.lc-kr02.lc-node.com
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: lc-kr02-direct01.lc-kr02.lc-node.com
+    udp: true

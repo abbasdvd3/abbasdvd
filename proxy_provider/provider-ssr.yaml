@@ -1,0 +1,11 @@
+proxies:
+- {"name":"Relay_-🇸🇬SG_130","server":"sg-am3.eqsunshine.com","type":"ssr","port":32001,"password":"3g0dHlKME","cipher":"aes-256-cfb","protocol":"origin","obfs":"tls1.2_ticket_auth"}
+- {"name":"Relay_🇯🇵JP-🇯🇵JP_463","server":"jp-am48-6.eqnode.net","type":"ssr","country":"🇯🇵JP","port":8081,"password":"eAokbaDN6","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"====","obfs":"tls1.2_ticket_auth","obfs-param":"===="}
+- {"name":"Relay_🇯🇵JP-🇯🇵JP_464","server":"jp-am48-6.eqnode.net","type":"ssr","country":"🇯🇵JP","port":8081,"password":"eAokbaDN6","cipher":"aes-256-cfb","protocol":"origin","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇺🇸US_1602","server":"185.199.225.118","type":"ssr","country":"🇺🇸US","port":10004,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇺🇸US_1603","server":"185.199.225.118","type":"ssr","country":"🇺🇸US","port":10008,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+- {"name":"Relay_🇺🇸US-🇺🇸US_1604","server":"ssrfree.zhujicn2.net","type":"ssr","country":"🇺🇸US","port":10007,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇺🇸US_1605","server":"185.199.225.118","type":"ssr","country":"🇺🇸US","port":10003,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+- {"name":"Relay_🇺🇸US-🇺🇸US_1606","server":"ssrfree.zhujicn2.net","type":"ssr","country":"🇺🇸US","port":10002,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+- {"name":"Relay_🇺🇸US-🇺🇸US_1607","server":"ssrfree.zhujicn2.net","type":"ssr","country":"🇺🇸US","port":10008,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇺🇸US_1608","server":"185.199.225.118","type":"ssr","country":"🇺🇸US","port":10006,"password":"dongtaiwang.com","cipher":"aes-256-cfb","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}

@@ -1,0 +1,82 @@
+
+proxies:
+  - name: FR_36
+    server: new.viporg12345.info
+    port: 17742
+    type: trojan
+    password: Lutsyy96g9
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: GB_43
+    server: uk1.trojanvh.xyz
+    port: 80
+    type: trojan
+    password: 211f5876-8c89-4d97-9004-ff16acddd506
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_🇬🇧GB-🇬🇧GB_44
+    server: uk1.trojanvh.xyz
+    port: 80
+    type: trojan
+    password: b44579e1-f803-4981-86bc-aa8c783daa04
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: IR_49
+    server: login.progbyrazyar.ir
+    port: 993
+    type: trojan
+    password: PksgnXCUop
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_🇺🇸US-🇺🇸US_191
+    server: sg06.170203.xyz
+    port: 443
+    type: trojan
+    password: 9aaea08e-3e22-4999-9121-0264984f1904
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_🇺🇸US-🇺🇸US_192
+    server: phxv001.jd0001.top
+    port: 44302
+    type: trojan
+    password: 4d111af8-5078-37e0-a583-34155f60b32c
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_🇺🇸US-🇺🇸US_193
+    server: c.mg.us.cat77.cloud
+    port: 8646
+    type: trojan
+    password: cd27884b-c5af-34ec-b75f-8248077818fe
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_🇺🇸US-🇺🇸US_194
+    server: kr05.wangxd.life
+    port: 3052
+    type: trojan
+    password: 3a2c0c6c-9ee5-c05f-c951-fcd73831983e
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_🇺🇸US-🇺🇸US_195
+    server: osav101.jd0001.top
+    port: 44301
+    type: trojan
+    password: 6abfad5a-24be-3657-85da-ceac782b7e19
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: US_196
+    server: dl.progbyrazyar.ir
+    port: 2087
+    type: trojan
+    password: L3N5SJGFTA
+    skip-cert-verify: true
+    sni: ""
+    udp: true

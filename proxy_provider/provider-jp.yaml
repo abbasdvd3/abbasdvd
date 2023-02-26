@@ -1,0 +1,123 @@
+proxies:
+- {"name":"🇯🇵 JP_2783 |27.15Mb","server":"jp-am48-6.eqnode.net","type":"ssr","country":"🇯🇵 JP","port":8081,"password":"eAokbaDN6","cipher":"aes-256-cfb","protocol":"origin","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇯🇵 JP_2787","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"4b1639ec-e0d0-41d2-9563-03dbceae8d15","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2788","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"b2407f3b-555b-4fcc-9921-5851b95a94a6","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2789 |12.96Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"aa7d24e0-b60c-44bb-bcd1-8b74a297cdbc","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2790 |22.49Mb","server":"trs17.bolab.net","type":"trojan","country":"🇯🇵 JP","port":22,"password":"40c89b10235c40321e7a3cef82b53a03","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2792 |10.86Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"c3211bc6-6cde-492a-a86a-310b0c19a44b","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2793 | 5.72Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"ed9a202f-7871-4a15-a4c1-f3a47c1f5493","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2794 |16.22Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"db9b6698-f01c-4fe1-93ca-d752c956c2d3","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2795 |10.60Mb","server":"jgwdb4.gaox.ml","type":"trojan","country":"🇯🇵 JP","port":443,"password":"d06a3f01-1ff0-4792-9b8e-a5a604bc74a2","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2796 | 5.69Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"6c383778-a50e-4292-8e2b-13b4184363e0","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2797","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"9d9a80cd-990c-4607-a158-c13767121701","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2798 | 2.95Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"881091b5-4172-4329-a0e7-17fca1e72292","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2799 |16.36Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"84773125-8f79-481c-a80b-e1f4aad86850","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2800 |13.02Mb","server":"jgwdb3.gaox.ml","type":"trojan","country":"🇯🇵 JP","port":443,"password":"8d2d5953-d649-4034-94f2-72f2df2623da","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2801","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"f2d1896d-e3f6-4312-8fb3-f81c0c27da3c","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2802","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"181367b4-8254-4723-b665-92f317910536","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2803 |17.11Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"d30afdba-ca55-463a-b26e-27080698a2a6","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2804 | 8.96Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"5491534e-00b5-42ff-853a-723997aadbdb","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2805 |29.13Mb","server":"168.138.43.89","type":"trojan","country":"🇯🇵 JP","port":443,"password":"d06a3f01-1ff0-4792-9b8e-a5a604bc74a2","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2806","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"81432434-ac6a-4992-9abe-c4f140bcb379","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2807 |11.01Mb","server":"tennouji.mike22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2808 |14.87Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"23103894-eec7-4de1-a05a-c2e11e351287","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2809 |116.78Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"d66dccd1-90c1-4713-8972-2417a2854df2","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2810","server":"qt26.shenseven.xyz","type":"trojan","country":"🇯🇵 JP","port":443,"password":"107b0481-8181-47cc-9324-a178047cd8e4","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2811","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"06d29997-d004-4338-a4e6-d1fb61b73c0b","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2812 |25.86Mb","server":"tk5.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2813 | 8.55Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"21f204d3-b42e-466a-9cb2-b83d868dcd5f","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2814 | 0.62Mb","server":"146.56.189.146","type":"trojan","country":"🇯🇵 JP","port":443,"password":"f2117e99-9b6e-47fd-b0a9-634a0b15b998","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2815 |19.51Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"edeb6377-0d40-483b-869a-8b3be9d74850","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2816 | 3.01Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"545034ab-8179-46ea-a7d4-a5c992cce000","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2817","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"bc58f81b-3f93-400c-aa88-893f5f52c29a","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2818","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"678b2803-9ba9-49ad-9083-154830d627a2","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2819","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"8e35cfee-acbf-45d6-9d1a-1c8b916543c3","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2820 |20.50Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"ca3a57c6-9bb5-4d19-876d-4552de4bb959","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2821","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"41f0a7ce-f6c2-4f2c-b3a9-13bd68538eb6","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2822 | 9.07Mb","server":"os-tr-5.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2823","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"1a654941-cc92-4e6d-9962-6f6fa97fc162","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2824","server":"45.66.134.219","type":"trojan","country":"🇯🇵 JP","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2825","server":"45.66.134.219","type":"trojan","country":"🇯🇵 JP","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2826","server":"45.66.134.219","type":"trojan","country":"🇯🇵 JP","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2827","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"ede46525-7b85-4cdc-883e-d4eb63cdc15a","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2828","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"bdebf62a-ac8a-42b0-9188-b4d8e00ea4c7","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2829 |30.79Mb","server":"os13.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2830 |16.64Mb","server":"nice-jp01.tiktokcdn.buzz","type":"trojan","country":"🇯🇵 JP","port":443,"password":"BXE9notY","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2831","server":"3.113.6.77","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"a77fd921-096e-4e08-864a-52f85bf864f0","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2833","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"4b0e9806-7599-43b1-85c6-d4d40626cb8d","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2834 |19.78Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"da647e58-8f85-450f-b123-568c492c297c","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2835","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"abfd07dd-9f67-4b8c-98c6-696940676260","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2836","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"4c3ad460-75da-426e-b70d-7ec7b42eaef8","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2837","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"7867d08b-acdb-4cf8-81e4-6bdaab372035","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2838 | 9.23Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"65f7378f-edb8-4f5d-913a-641ecd853cea","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2839 |27.83Mb","server":"168.138.44.176","type":"trojan","country":"🇯🇵 JP","port":443,"password":"8d2d5953-d649-4034-94f2-72f2df2623da","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2840 | 4.43Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"cbd08acf-2d47-4065-aafa-4201e5307f67","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2841","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"e859ba46-edb8-4007-a666-f70038b519a0","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2842 |12.61Mb","server":"trs12.bolab.net","type":"trojan","country":"🇯🇵 JP","port":22,"password":"40c89b10235c40321e7a3cef82b53a03","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2843 | 8.88Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"1988268c-a841-42f2-acac-7a8c0c7e78e5","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2844 | 4.87Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"b70b2ed8-6d35-4fe0-8ae7-4e8fa45ff326","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2845 |12.15Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"2e4c54a0-a780-4994-97c0-44eb92857d76","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2846 | 9.10Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"10f81a15-c7c8-473b-a12a-a09f098b6236","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2847","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"3d8db54b-8eaa-43f5-b8e6-94e481aeca11","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2848 | 8.67Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"98a68cfb-42c6-4498-ac6e-7e5c203924a7","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2849 |13.98Mb","server":"trs16.bolab.net","type":"trojan","country":"🇯🇵 JP","port":22,"password":"40c89b10235c40321e7a3cef82b53a03","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2850 | 9.38Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"e92293ba-8399-4759-b58e-6416f0702576","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2851 |30.68Mb","server":"os4.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2852 |22.28Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"ffd553fe-7d14-4ab2-acba-e7307d41e4f4","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2853","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"f79b9954-c349-4b26-9e59-38a5e539a5d9","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2854 | 8.70Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"3fe45691-03ac-40a1-8f4e-1317905020db","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2855 |21.43Mb","server":"160.16.145.107","type":"trojan","country":"🇯🇵 JP","port":2053,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2856 |19.96Mb","server":"os-tr-2.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2857 | 9.73Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"f2239c58-4684-4747-8985-fbca693f352b","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2858 | 4.54Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"e3dcc71e-f058-43bf-bf0d-5bdf20dec071","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2859 | 6.37Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"3753719b-eb37-4f34-ab60-ae3a70486b27","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2860 |13.28Mb","server":"teradacyou.mike22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2861 |10.34Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"3f087c04-44e6-4c96-a917-ca974de1212b","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2862 |13.40Mb","server":"tk-tr-3.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2863 | 4.65Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"dc26913c-a31c-4b3f-9c03-28a6b4283a89","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2864 |14.53Mb","server":"os2a.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2865 |28.39Mb","server":"os-tr-3.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2866 |27.60Mb","server":"os1.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2867","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"ce74a36a-8996-428f-9498-bbdf6388b490","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2868 |11.49Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"ec129ab2-3c89-4e25-8b97-aee479ac06f1","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2869 |19.52Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"36443c4f-4487-48a6-8438-57bd7700b916","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2870 |13.21Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"374e524b-834f-4764-93d2-64f9f734f596","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2872 | 3.48Mb","server":"tk3.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2873 | 3.78Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"1a74fd5e-50dc-43d2-8119-4bce566d784e","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2874 | 6.46Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"4af0d477-0852-4872-a0bc-e333c119b84e","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2875 |14.06Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"0d8285f8-33da-4076-bb24-d498bd83f2f9","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2876 | 9.26Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"a153fb4e-6d1b-4db0-b03d-acb4012b7198","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2877 | 9.34Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"7c953fab-2d79-4320-b208-59e07b6033fd","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2878 | 8.98Mb","server":"os6.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2879 |23.26Mb","server":"49.212.221.47","type":"trojan","country":"🇯🇵 JP","port":2053,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2880 |16.85Mb","server":"os14.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2881 |21.61Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"ddeb5b2c-5a1e-41d4-bb3a-08babe54f1a1","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2882 | 7.25Mb","server":"146.56.176.239","type":"trojan","country":"🇯🇵 JP","port":443,"password":"a153fb4e-6d1b-4db0-b03d-acb4012b7198","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2883 |30.27Mb","server":"tk-tr-4.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2884 |22.86Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"036ba5aa-fcb7-4e6f-95b5-a857cb354aa8","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2885 |18.89Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"80b07539-c253-4526-8a80-424708ff2ced","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2886 | 8.42Mb","server":"tk-tr-2.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2887 |22.99Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"7f9e51b9-928e-4076-b075-ba7577c36443","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2888 |14.75Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"205f8ab6-cb17-4480-93a6-aece90b88742","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2889 | 6.82Mb","server":"os-tr-1.cats22.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"18844@zxcvbn","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2890 |129.59Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"83985788-df3e-4b91-8f5e-a9de66a79cca","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2891","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"ddcc589b-146e-4eab-9957-800ac92a8db1","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2892","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"27b5a4b4-a010-4577-94c4-77d630a319cf","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2893","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"4effe03b-f2d6-4f1f-b371-eba1054bb249","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2894 | 2.23Mb","server":"official.tokyometropolis.odesa.ua","type":"trojan","country":"🇯🇵 JP","port":2053,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2895 |15.20Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"96e08c45-762a-48d2-8b65-0088c3c5e3d4","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2896 | 7.70Mb","server":"official.tokyometropolis.ivano-frankivsk.ua","type":"trojan","country":"🇯🇵 JP","port":2053,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2897 | 8.13Mb","server":"official.tokyometropolis.kharkov.ua","type":"trojan","country":"🇯🇵 JP","port":2053,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2898 | 1.17Mb","server":"official.tokyometropolis.kherson.ua","type":"trojan","country":"🇯🇵 JP","port":2053,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2899 |21.10Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"33073a7c-e6d5-4271-9b19-4416afcc25b5","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2900 |10.11Mb","server":"trs09.bolab.net","type":"trojan","country":"🇯🇵 JP","port":443,"password":"7a566d21dfcd0f12490275fd3dd3cfc4","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2901 | 6.68Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"1bacde9b-3a1a-43eb-b091-287824dc91d3","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2902 |17.52Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"7e92d33f-6917-4c69-8eca-7fe80be58199","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2903 | 4.90Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"61f6271b-5e65-46b8-bc80-c6468a1f185e","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2904 | 8.53Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"8c20177e-d245-4ec6-9610-34c20500d10b","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2905","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"7b6991cf-2d91-4e2d-a59a-148b52edec75","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2906 | 3.36Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"88452dfb-fad4-44b2-b8a1-d230d145848c","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2907","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"9e634d02-40ac-4b4b-b9af-e46af97c09d1","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2908","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"50ecfcaf-cec1-4be4-a20e-e67f77cf3faf","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2909 |19.13Mb","server":"133.167.100.203","type":"trojan","country":"🇯🇵 JP","port":2053,"password":"96983eb4-c8f1-316e-ab00-500014ed3d8b","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵 JP_2910","server":"2d1t5w06.mcfront.xyz","type":"trojan","country":"🇯🇵 JP","port":31311,"password":"043c7441-f354-42b7-91ce-398c4b0b29ea","skip-cert-verify":true,"udp":true}

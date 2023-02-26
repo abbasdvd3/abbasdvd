@@ -1,0 +1,682 @@
+
+proxies:
+  - name: _983
+    server: 152.67.160.174
+    port: 443
+    type: trojan
+    password: 54080134-2cba-4535-8599-95650bd9aa54
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: _984
+    server: 154.3.32.164
+    port: 443
+    type: trojan
+    password: RRy34GGwsPt47SuC
+    skip-cert-verify: true
+    sni: sky998dmit3.xyz
+    udp: true
+  - name: _985
+    server: 152.67.190.183
+    port: 443
+    type: trojan
+    password: 006baa3f-4bc3-4915-b60d-c8c5dae11a11
+    skip-cert-verify: true
+    sni: 152.67.190.183
+    udp: true
+  - name: _986
+    server: 37.123.196.250
+    port: 28895
+    type: trojan
+    password: shenmegui
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇭🇰HK_987
+    server: v02.gutingting.com
+    port: 30006
+    type: trojan
+    password: 3e6de531-c6a7-4381-9f8a-0dd40b229cbd
+    skip-cert-verify: true
+    sni: v2hgc02.fuqiangren.com
+    udp: true
+  - name: Relay_-🇺🇸US_988
+    server: phxv001.jd0001.top
+    port: 44302
+    type: trojan
+    password: 4d111af8-5078-37e0-a583-34155f60b32c
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: _989
+    server: 185.16.206.211
+    port: 443
+    type: trojan
+    password: shefelnak
+    skip-cert-verify: true
+    sni: content-provider21.cdn-delivery.akamaicd.com
+    udp: true
+  - name: Relay_-🇺🇸US_990
+    server: v01.gutingting.com
+    port: 20224
+    type: trojan
+    password: 3e6de531-c6a7-4381-9f8a-0dd40b229cbd
+    skip-cert-verify: true
+    sni: v2usa01.fuqiangren.com
+    udp: true
+  - name: _991
+    server: 37.123.196.225
+    port: 28897
+    type: trojan
+    password: shenmegui
+    skip-cert-verify: true
+    sni: hk.swiftfalcon.app
+    udp: true
+  - name: Relay_-🇺🇸US_992
+    server: jgwdj3.gaox.ml
+    port: 443
+    type: trojan
+    password: da777aae-defb-41d0-a183-2c27da2b4677
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇺🇸US_993
+    server: b.mg.us.cat77.cloud
+    port: 5215
+    type: trojan
+    password: cd27884b-c5af-34ec-b75f-8248077818fe
+    skip-cert-verify: true
+    sni: b.mg.us.cat77.cloud
+    udp: true
+  - name: _994
+    server: 51.255.49.192
+    port: 443
+    type: trojan
+    password: b3df8f31-da3a-4cda-90b1-b3b777cd48e7
+    skip-cert-verify: true
+    sni: ba24.ir
+    udp: true
+  - name: _995
+    server: 173.82.240.199
+    port: 44301
+    type: trojan
+    password: 6d64570c-81d4-30fa-b2e2-dce73e1a2702
+    skip-cert-verify: true
+    sni: lav002.jd0001.top
+    udp: true
+  - name: Relay_-🇺🇸US_996
+    server: kr05.wangxd.life
+    port: 3052
+    type: trojan
+    password: 3a2c0c6c-9ee5-c05f-c951-fcd73831983e
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: _997
+    server: 51.38.71.175
+    port: 80
+    type: trojan
+    password: b640d791-ff83-4300-b509-c2a02f97f167
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: _998
+    server: 152.70.143.228
+    port: 44302
+    type: trojan
+    password: 4d111af8-5078-37e0-a583-34155f60b32c
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇺🇸US_999
+    server: dl.progbyrazyar.ir
+    port: 2087
+    type: trojan
+    password: L3N5SJGFTA
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇺🇸US_1000
+    server: sg06.170203.xyz
+    port: 443
+    type: trojan
+    password: 9aaea08e-3e22-4999-9121-0264984f1904
+    skip-cert-verify: true
+    sni: sg06.170203.xyz
+    udp: true
+  - name: Relay_-🇨🇦CA_1001
+    server: v02.gutingting.com
+    port: 30053
+    type: trojan
+    password: 961a2801-c083-4db9-b1d7-6b47a5847da6
+    skip-cert-verify: true
+    sni: v2phl01.fuqiangren.com
+    udp: true
+  - name: Relay_-🇱🇹LT_1002
+    server: 103.172.116.196
+    port: 3389
+    type: trojan
+    password: 0c6a3341e8d5ab17
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇬🇧GB_1003
+    server: uk1.trojanvh.xyz
+    port: 80
+    type: trojan
+    password: b640d791-ff83-4300-b509-c2a02f97f167
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇺🇸US_1004
+    server: jgwhdlb2.gaox.ml
+    port: 443
+    type: trojan
+    password: 54080134-2cba-4535-8599-95650bd9aa54
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇸🇬SG_1005
+    server: v01.gutingting.com
+    port: 30050
+    type: trojan
+    password: bef5465b-cb1f-4c3c-b554-89cc4e150c69
+    skip-cert-verify: true
+    sni: v2sg02.fuqiangren.com
+    udp: true
+  - name: Relay_-🇹🇼TW_1006
+    server: v02.gutingting.com
+    port: 30003
+    type: trojan
+    password: 961a2801-c083-4db9-b1d7-6b47a5847da6
+    skip-cert-verify: true
+    sni: v2tw01.fuqiangren.com
+    udp: true
+  - name: Relay_-🇯🇵JP_1007
+    server: v02.gutingting.com
+    port: 30054
+    type: trojan
+    password: 3e6de531-c6a7-4381-9f8a-0dd40b229cbd
+    skip-cert-verify: true
+    sni: v1jp01.fuqiangren.com
+    udp: true
+  - name: Pool__1008
+    server: 103.172.116.214
+    port: 3389
+    type: trojan
+    password: 0c6a3341e8d5ab17
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇺🇸US_1009
+    server: 170-187-134-190.ipv4.rush.ml
+    port: 8443
+    type: trojan
+    password: cf4295378e209e70d12c5bdd017144dfd1c772d3
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇯🇵JP_1010
+    server: v01.gutingting.com
+    port: 20220
+    type: trojan
+    password: 961a2801-c083-4db9-b1d7-6b47a5847da6
+    skip-cert-verify: true
+    sni: v2jp01.fuqiangren.com
+    udp: true
+  - name: Relay_-🇸🇬SG_1011
+    server: v01.gutingting.com
+    port: 20222
+    type: trojan
+    password: bef5465b-cb1f-4c3c-b554-89cc4e150c69
+    skip-cert-verify: true
+    sni: v2sg01.fuqiangren.com
+    udp: true
+  - name: Relay_-🇬🇧GB_1012
+    server: uk1.trojanvh.xyz
+    port: 80
+    type: trojan
+    password: b44579e1-f803-4981-86bc-aa8c783daa04
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇨🇦CA_1013
+    server: v02.gutingting.com
+    port: 30052
+    type: trojan
+    password: 961a2801-c083-4db9-b1d7-6b47a5847da6
+    skip-cert-verify: true
+    sni: v2th01.fuqiangren.com
+    udp: true
+  - name: _1014
+    server: 185.16.206.209
+    port: 443
+    type: trojan
+    password: shefelnak
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇺🇸US_1015
+    server: jgwhdlb3.gaox.ml
+    port: 443
+    type: trojan
+    password: 006baa3f-4bc3-4915-b60d-c8c5dae11a11
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇯🇵JP_1016
+    server: v01.gutingting.com
+    port: 30056
+    type: trojan
+    password: 3e6de531-c6a7-4381-9f8a-0dd40b229cbd
+    skip-cert-verify: true
+    sni: v1kr01.fuqiangren.com
+    udp: true
+  - name: _1017
+    server: 138.124.183.222
+    port: 443
+    type: trojan
+    password: xxoo
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: _1018
+    server: 103.172.116.138
+    port: 3389
+    type: trojan
+    password: 0c6a3341e8d5ab17
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: _1019
+    server: 138.124.183.216
+    port: 443
+    type: trojan
+    password: xxoo
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: _1020
+    server: 16.171.64.3
+    port: 22222
+    type: trojan
+    password: telegram-id-privatevpns
+    skip-cert-verify: true
+    sni: trj.rollingnext.co.uk
+    udp: true
+  - name: Relay_-🇦🇺AU_1021
+    server: jgwxn3.gaox.ml
+    port: 443
+    type: trojan
+    password: cb43b7c2-b744-41c5-bcc2-fd7467b332cf
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: _1022
+    server: 194.233.88.109
+    port: 443
+    type: trojan
+    password: 123456
+    skip-cert-verify: true
+    sni: 194.233.88.109
+    udp: true
+  - name: Relay_-🇺🇸US_1023
+    server: jgwhdlb1.gaox.ml
+    port: 443
+    type: trojan
+    password: e05c749b-7c6b-41b8-9c71-9dcf685edf4a
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇦🇺AU_1024
+    server: jk.jkk.mkitty.top
+    port: 443
+    type: trojan
+    password: 71354f48-e8c8-4c4c-a967-47d7ac5e953c
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_-🇺🇸US_1025
+    server: t5.583181.xyz
+    port: 1258
+    type: trojan
+    password: 1c144357-c9ba-489d-921a-856264301d6a
+    skip-cert-verify: true
+    sni: www.baidu.com
+    udp: true
+  - name: Relay_-🇬🇧GB_1026
+    server: v02.gutingting.com
+    port: 20227
+    type: trojan
+    password: 961a2801-c083-4db9-b1d7-6b47a5847da6
+    skip-cert-verify: true
+    sni: v2uk01.fuqiangren.com
+    udp: true
+  - name: _1027
+    server: 129.154.219.39
+    port: 443
+    type: trojan
+    password: 71354f48-e8c8-4c4c-a967-47d7ac5e953c
+    skip-cert-verify: true
+    sni: jk.jkk.mkitty.top
+    udp: true
+  - name: Relay_-🇸🇬SG_1028
+    server: sd-wan-3.ispeed.online
+    port: 52707
+    type: trojan
+    password: c1a61045-88f3-4216-8844-ae9b493b5c83
+    skip-cert-verify: true
+    sni: www.cloudflare.com
+    udp: true
+  - name: Relay_-🇩🇪DE_1029
+    server: 45.64.22.56
+    port: 443
+    type: trojan
+    password: 123456
+    skip-cert-verify: true
+    sni: trojan-ctb-sg01.globalssh.xyz
+    udp: true
+  - name: Relay_-🇭🇰HK_1030
+    server: v01.gutingting.com
+    port: 30017
+    type: trojan
+    password: 3e6de531-c6a7-4381-9f8a-0dd40b229cbd
+    skip-cert-verify: true
+    sni: v2hgc01.fuqiangren.com
+    udp: true
+  - name: _1031
+    server: 51.83.186.142
+    port: 80
+    type: trojan
+    password: fa0e4e7a-db70-4aeb-8104-e3120d9259cd
+    skip-cert-verify: true
+    sni: pl1.trojanvh.xyz
+    udp: true
+  - name: Relay_-🇺🇸US_1032
+    server: v02.gutingting.com
+    port: 30057
+    type: trojan
+    password: 961a2801-c083-4db9-b1d7-6b47a5847da6
+    skip-cert-verify: true
+    sni: v1kr02.fuqiangren.com
+    udp: true
+  - name: Relay_-🇺🇸US_1033
+    server: c.mg.us.cat77.cloud
+    port: 8646
+    type: trojan
+    password: cd27884b-c5af-34ec-b75f-8248077818fe
+    skip-cert-verify: true
+    sni: c.mg.us.cat77.cloud
+    udp: true
+  - name: _1034
+    server: 3.133.129.117
+    port: 22222
+    type: trojan
+    password: telegram-id-directvpn
+    skip-cert-verify: true
+    sni: trj.rollingnext.co.uk
+    udp: true
+  - name: AU_1039
+    server: 152.67.98.30
+    port: 443
+    type: trojan
+    password: e8c1ab3c-89b3-4933-92df-682e6dce7819
+    skip-cert-verify: true
+    sni: "%2524152.67.98.30"
+    udp: true
+  - name: Relay_🇦🇺AU-🇦🇺AU_1040
+    server: jgwxn4.gaox.ml
+    port: 443
+    type: trojan
+    password: e8c1ab3c-89b3-4933-92df-682e6dce7819
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: CA_1055
+    server: 149.56.132.41
+    port: 80
+    type: trojan
+    password: fafb4232-9659-4867-886d-e47f4bda283e
+    skip-cert-verify: true
+    sni: ca1.trojanvh.xyz
+    udp: true
+  - name: CA_1056
+    server: 149.56.132.41
+    port: 80
+    type: trojan
+    password: 89d81c5f-3d75-42f7-8a23-1be9ac89f3fb
+    skip-cert-verify: true
+    sni: ca1.trojanvh.xyz
+    udp: true
+  - name: Relay_🇨🇳CN-🇺🇸US_1063
+    server: scloud16.jafiyun.world
+    port: 22016
+    type: trojan
+    password: 1339fe56-c411-392a-9fa2-f1a3614b8f70
+    skip-cert-verify: true
+    sni: scloud16.jafiyun.world
+    udp: true
+  - name: Relay_🇩🇪DE-🇩🇪DE_1099
+    server: trojan-ctb-sg01.globalssh.xyz
+    port: 443
+    type: trojan
+    password: 123456
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: FR_1157
+    server: 195.154.118.180
+    port: 443
+    type: trojan
+    password: c5c6cdc0-aa51-11ed-87c8-1239d0255272
+    skip-cert-verify: true
+    sni: soft98.ir
+    udp: true
+  - name: FR_1158
+    server: new.viporg12345.info
+    port: 17742
+    type: trojan
+    password: Lutsyy96g9
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: FR_1159
+    server: 51.83.186.142
+    port: 80
+    type: trojan
+    password: 9ca1f2e4-0d7b-440b-a261-109c35270dda
+    skip-cert-verify: true
+    sni: pl1.trojanvh.xyz
+    udp: true
+  - name: FR_1160
+    server: 51.83.186.142
+    port: 80
+    type: trojan
+    password: 2959e4f7-7589-4a40-9b96-1be750ac7845
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: FR_1161
+    server: 51.91.11.29
+    port: 80
+    type: trojan
+    password: e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad
+    skip-cert-verify: true
+    sni: fr1.trojanvh.xyz
+    udp: true
+  - name: FR_1162
+    server: www.upload.soft98.download
+    port: 3389
+    type: trojan
+    password: 3576fa41-a482-4094-a42e-9a53a4047aef
+    skip-cert-verify: true
+    sni: www.upload.soft98.download
+    udp: true
+  - name: FR_1163
+    server: 146.19.230.241
+    port: 443
+    type: trojan
+    password: xxoo
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: FR_1164
+    server: 195.154.118.180
+    port: 443
+    type: trojan
+    password: 84540ea0-a6c3-11ed-be63-1239d0255272
+    skip-cert-verify: true
+    sni: soft98.ir
+    udp: true
+  - name: FR_1165
+    server: 51.38.99.96
+    port: 443
+    type: trojan
+    password: b8808043-6566-4923-9195-e66bfb553d57
+    skip-cert-verify: true
+    sni: ba24.ir
+    udp: true
+  - name: GB_1195
+    server: 185.16.206.212
+    port: 443
+    type: trojan
+    password: shefelnak
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_🇮🇪IE-🇮🇪IE_1197
+    server: 3-249-129-98.ipv4.rush.ml
+    port: 8443
+    type: trojan
+    password: cf4295378e209e70d12c5bdd017144dfd1c772d3
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: IE_1198
+    server: 3.249.129.98
+    port: 8443
+    type: trojan
+    password: cf4295378e209e70d12c5bdd017144dfd1c772d3
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: IR_1202
+    server: login.progbyrazyar.ir
+    port: 2087
+    type: trojan
+    password: Sh4EZXpFLo
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: NL_1345
+    server: 185.212.200.74
+    port: 443
+    type: trojan
+    password: Sp3eDVp
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: NL_1346
+    server: 185.212.200.75
+    port: 443
+    type: trojan
+    password: Sp3eDVp
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: RU_1359
+    server: 194.156.99.39
+    port: 443
+    type: trojan
+    password: xxoo
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: US_1751
+    server: 152.67.162.166
+    port: 443
+    type: trojan
+    password: e05c749b-7c6b-41b8-9c71-9dcf685edf4a
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: US_1752
+    server: 150.230.217.213
+    port: 443
+    type: trojan
+    password: c09eb137-bf68-4658-84e0-102d94b74168
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: US_1753
+    server: 150.230.96.103
+    port: 443
+    type: trojan
+    password: da777aae-defb-41d0-a183-2c27da2b4677
+    skip-cert-verify: true
+    sni: "%2524150.230.96.103"
+    udp: true
+  - name: US_1754
+    server: 15.235.197.4
+    port: 80
+    type: trojan
+    password: 16bcc187-a1a0-4b8a-8b69-627f38b7cc0d
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: US_1755
+    server: 192.9.148.1
+    port: 5215
+    type: trojan
+    password: cd27884b-c5af-34ec-b75f-8248077818fe
+    skip-cert-verify: true
+    sni: "%2524b.mg.us.cat77.cloud"
+    udp: true
+  - name: Relay_🇺🇸US-🇺🇸US_1756
+    server: sky998dmit3.xyz
+    port: 443
+    type: trojan
+    password: RRy34GGwsPt47SuC
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_🇺🇸US-🇺🇸US_1757
+    server: jgwdj4.gaox.ml
+    port: 443
+    type: trojan
+    password: c09eb137-bf68-4658-84e0-102d94b74168
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_🇺🇸US-🇺🇸US_1758
+    server: 108-137-18-26.ipv4.rush.ml
+    port: 8443
+    type: trojan
+    password: cf4295378e209e70d12c5bdd017144dfd1c772d3
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: US_1759
+    server: 138.2.113.84
+    port: 443
+    type: trojan
+    password: b291d129-ee55-4801-a9b8-b5316e5c37b7
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: Relay_🇺🇸US-🇺🇸US_1760
+    server: jgwcc3.gaox.ml
+    port: 443
+    type: trojan
+    password: b291d129-ee55-4801-a9b8-b5316e5c37b7
+    skip-cert-verify: true
+    sni: ""
+    udp: true
+  - name: US_1761
+    server: 108.137.18.26
+    port: 8443
+    type: trojan
+    password: cf4295378e209e70d12c5bdd017144dfd1c772d3
+    skip-cert-verify: true
+    sni: ""
+    udp: true
