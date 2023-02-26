@@ -1,6 +1,6 @@
 # port: 9494
 # socks-port: 9595
-# mixed-port: 9696
+mixed-port: 9696
 redir-port: 9797
 tproxy-port: 9898
 mode: rule
@@ -101,7 +101,7 @@ dns:
   listen: 0.0.0.0:1053
   use-hosts: true
   # redir-host / fake-ip
-  enhanced-mode: fake-ip
+  enhanced-mode: redir-host
   fake-ip-range: 43.0.0.1/8
   fake-ip-filter:
     - '+.lan'
@@ -123,9 +123,9 @@ dns:
     # - '1.1.1.1'
   # # nameserver-policy:
     # # '+.googlesyndication.com': 1.1.1.1
-  # fallback:
-    # - 'https://8.8.8.8/dns-query'
-    # - 'tcp://8.8.4.4'
+   fallback:
+     - 'https://8.8.8.8/dns-query'
+     - 'tcp://8.8.4.4'
     # # - 'quic://dns.adguard.com:784' # DNS over QUIC
   # fallback-filter:
     # geoip: false
