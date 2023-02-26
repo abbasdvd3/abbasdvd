@@ -141,4 +141,19 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
 
 rules:
+  - IP-CIDR,127.0.0.1/32,REJECT,no-resolve,udp
+  - IP-CIDR6,::1/128,REJECT,no-resolve,udp
+  # network(tcp/udp) condition for all rules 
+  - DOMAIN-SUFFIX,ad.com,REJECT,udp
+  - SRC-IP-CIDR,192.168.1.201/32,DIRECT,tcp
+  - DOMAIN-SUFFIX,bilibili.com,DIRECT,tcp
+  - DOMAIN-SUFFIX,bilibili.com,REJECT,udp
+  - DOMAIN-SUFFIX,github.com,DIRECT,no-resolve,tcp
+  - DOMAIN-SUFFIX,github.io,DIRECT,no-resolve,tcp
+  - DOMAIN-SUFFIX,githubapp.com,DIRECT,no-resolve,tcp
+  - DOMAIN-SUFFIX,githubassets.com,DIRECT,no-resolve,tcp
+  - DOMAIN-SUFFIX,githubusercontent.com,DIRECT,no-resolve,tcp
+  - DOMAIN-KEYWORD,github,DIRECT,no-resolve,tcp
+  - DOMAIN-KEYWORD,appteka.store,DIRECT
+  - DOMAIN-SUFFIX,collector.githubapp.com,DIRECT,no-resolve,tcp
   - MATCH,🌋
