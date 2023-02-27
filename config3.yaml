@@ -4,10 +4,10 @@ mixed-port: 7890
 tproxy-port: 9898
 auto-redir: true
 mode: rule
-allow-lan: true
-unified-delay: true
+allow-lan: false
+unified-delay: false
 log-level: debug
-ipv6: true
+ipv6: false
 external-controller: 0.0.0.0:9090 
 dns:
   enable: true
@@ -19,8 +19,6 @@ dns:
     - 114.114.114.114
     - 8.8.8.8
     - 1.0.0.1
-    - https://dns.google/dns-query
-    - https://1.1.1.1/dns-query
   fallback:
     - 1.1.1.1
     - 8.8.4.4
