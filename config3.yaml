@@ -1,13 +1,45 @@
 
-mixed-port: 9696
-redir-port: 9797
+mixed-port: 7890
+#redir-port: 9797
 tproxy-port: 9898
+auto-redir: true
 mode: rule
 allow-lan: true
-unified-delay: false
+unified-delay: true
 log-level: debug
 ipv6: true
 external-controller: 0.0.0.0:9090 
+dns:
+  enable: true
+  ipv6: false
+  use-host: true
+  enhanced-mode: fake-ip
+  listen: 0.0.0.0:7874
+  nameserver:
+    - 114.114.114.114
+    - 8.8.8.8
+    - 1.0.0.1
+    - https://dns.google/dns-query
+    - https://1.1.1.1/dns-query
+  fallback:
+    - 1.1.1.1
+    - 8.8.4.4
+    - tcp://1.1.1.1
+    - https://cloudflare-dns.com/dns-query
+    - 112.215.203.254
+  default-nameserver:
+    - 8.8.8.8
+    - 1.1.1.1
+    - 112.215.203.254
+  fake-ip-range: 198.18.0.1/16 
+tun:
+  enable: true
+  stack: system # or gvisor
+  dns-hijack:
+    - 198.18.0.2:53
+  auto-redir: true # or false
+  auto-route: true
+  auto-detect-interface: true
 proxies:
 proxy-providers:
   proxys:
@@ -646,13 +678,96 @@ proxy-providers:
       interval: 120
       url: http://www.google.com/
 proxy-groups:
-- name: 🌋
+- name: "auto"
   type: select
   proxies:
-  - proxy 
+  - 🔱proxy🔱
+  use:
+  - proxys
+  - vpn20
+  - vpn21
+  - vpn22
+  - vpn23
+  - vpn24
+  - vpn25
+  - vpn26
+  - vpn27
+  - vpn28
+  - vpn29
+  - vpn30
+  - vpn31
+  - vpn32
+  - vpn33
+  - vpn34
+  - vpn35
+  - vpn36
+  - vpn37
+  - vpn38
+  - vpn39
+  - vpn40
+  - vpn41
+  - vpn42
+  - vpn43
+  - VPN0
+  - VPN1
+  - VPN2
+  - VPN3
+  - VPN4
+  - VPN5
+  - VPN6
+  - VPN7
+  - VPN9
+  - VPN8
+  - VPN10
+  - VPN11
+  - VPN12
+  - VPN13
+  - VPN14
+  - VPN15
+  - VPN16
+  - VPN17
+  - VPN18
+  - VPN19
+  - au
+  - cn
+  - us
+  - ca
+  - jp       
+  - Europe
+  - others1
+  - all
+  - China  
+  - HongKong
+  - Taiwan
+  - Speed
+  - Relay
+  - Pool
+  - ssr
+  - ss
+  - v2ray
+  - trojan
+  - Asia            
+  - Oceania
+  - SouthAmerica
+  - NorthAmerica
+  - Africa
+  - others
+  - Global
+  - sg 
+  - ru 
+  - ch
+  - de
+  - fr
+  - gb
+  - nl
 - name: 🔱proxy🔱
   type: url-test
   url: http://www.google.com
+  url: 'http://www.google.com'
+  interval: 300
+  tolerance: 0
+#lazy: true
+#disable-udp: true  
   health-check:
   enable: true
   disable-udp: false
@@ -734,7 +849,18 @@ proxy-groups:
   - fr
   - gb
   - nl
+tunnels:
+  # one line config
+  - tcp/udp,127.0.0.1:6553,114.114.114.114:53,auto
+  - tcp,127.0.0.1:6666,rds.mysql.com:3306,auto
+  # full yaml config
+  - network: [tcp, udp]
+    address: 127.0.0.1:7777
+    target: target.com
+    proxy: auto
 rules:
+  - DOMAIN-SUFFIX,google.com,auto
+  - DOMAIN-KEYWORD,google,auto
   - IP-CIDR,127.0.0.1/32,REJECT,no-resolve,udp
   - IP-CIDR6,::1/128,REJECT,no-resolve,udp
   # network(tcp/udp) condition for all rules 
