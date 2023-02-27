@@ -1,6 +1,6 @@
 # port: 9494
 # socks-port: 9595
-mixed-port: 9696
+mixed-port: 7890
 redir-port: 9797
 tproxy-port: 9898
 mode: rule
