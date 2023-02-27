@@ -762,7 +762,6 @@ proxy-groups:
   - nl
 - name: 🔱proxy🔱
   type: url-test
-  url: http://www.google.com
   url: 'http://www.google.com'
   interval: 300
   tolerance: 0
