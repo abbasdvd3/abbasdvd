@@ -1,4 +1,4 @@
-mixed-port: 7890
+
 redir-port: 7892
 tproxy-port: 7893
 log-level: debug
