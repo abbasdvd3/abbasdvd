@@ -435,18 +435,13 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
 proxy-groups:
 - name: STREAMING
-  type: url-test
+  type: select
   url: http://www.gstatic.com/generate_204
   interval: 600
   health-check:
   enable: true
   disable-udp: false
   proxies:
-  - best
-  - best1  
-  - best2
-  - best3
-  - best4
   - LOADBALANCE  
 - name: proxy
   type: select
@@ -454,11 +449,6 @@ proxy-groups:
   enable: true
   disable-udp: false
   proxies:
-  - best
-  - best1  
-  - best2
-  - best3
-  - best4
   - LOADBALANCE 
   - DIRECT
   use:
@@ -514,11 +504,11 @@ proxy-groups:
   - gb
   - nl
   url: http://www.gstatic.com/generate_204
-  interval: 500
+  interval: 800
 - name: LOADBALANCE
   type: url-test
   url: http://www.gstatic.com/generate_204
-  interval: 500
+  interval: 700
   health-check:
   enable: true
   disable-udp: false
