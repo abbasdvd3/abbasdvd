@@ -44,33 +44,9 @@ dns:
   use-host: true
   enhanced-mode: fake-ip
   listen: 0.0.0.0:7874
-  proxy-server-nameserver:
-    - tls://1.0.0.1:853
   nameserver:
     - 114.114.114.114
     - 8.8.8.8
-    - tls://223.5.5.5:853
-    - https://doh.pub/dns-query
-    - https://dns.alidns.com/dns-query#h3=true
-    - https://mozilla.cloudflare-dns.com/dns-query#DNS&h3=true
-    - dhcp://en0
-    - quic://dns.adguard.com:784
-  fallback:
-    - https://doh.dns.sb/dns-query
-    - tcp://208.67.222.222:443
-    - quic://a.passcloud.xyz:784
-    - tls://8.8.4.4:853#DNSg
-  fallback-filter:
-    geoip: false
-    geoip-code: CN
-    geosite:
-      - gfw
-    ipcidr:
-      - 240.0.0.0/4
-    domain:
-      - +.google.com
-      - +.facebook.com
-      - +.youtube.com
   default-nameserver:
     - 114.114.114.114
     - 8.8.8.8
@@ -84,7 +60,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200
+      interval: 1200
   VPN2:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN2.yaml"
@@ -92,7 +68,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200
+      interval: 1200
   VPN3:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN3.yaml"
@@ -100,7 +76,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200
+      interval: 1200
   VPN4:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN4.yaml"
@@ -108,7 +84,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200
+      interval: 1200
   VPN5:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN5.yaml"
@@ -116,7 +92,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200
+      interval: 1200
   VPN6:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN6.yaml"
@@ -124,7 +100,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200
+      interval: 1200
   VPN7:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN7.yaml"
@@ -132,7 +108,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200
+      interval: 1200
   VPN8:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN8.yaml"
@@ -140,7 +116,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200
+      interval: 1200
   VPN9:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN9.yaml"
@@ -148,7 +124,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200
+      interval: 1200
   VPN10:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN10.yaml"
@@ -156,7 +132,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200
+      interval: 1200
   VPN11:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN11.yaml"
@@ -164,7 +140,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200
+      interval: 1200
   VPN12:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN12.yaml"
@@ -172,7 +148,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200
+      interval: 1200
   VPN13:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN13.yaml"
@@ -180,7 +156,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200 
+      interval: 1200 
   VPN14:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN14.yaml"
@@ -188,7 +164,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200 
+      interval: 1200 
   VPN15:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN15.yaml"
@@ -196,7 +172,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200 
+      interval: 1200 
   VPN16:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN16.yaml"
@@ -204,7 +180,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200 
+      interval: 1200 
   VPN17:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN17.yaml"
@@ -212,7 +188,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200 
+      interval: 1200 
   VPN18:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN18.yaml"
@@ -220,7 +196,7 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200 
+      interval: 1200 
   VPN19:
     type: http
     url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd/main/proxy_provider/VPN19.yaml"
@@ -228,14 +204,14 @@ proxy-providers:
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 200 
+      interval: 1200 
   au:
     type: http
     url: "https://proxy.yiun.xyz/clash/proxies?c=AU"
     path: proxy_provider/provider-au.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   cn:
     type: http
@@ -243,7 +219,7 @@ proxy-providers:
     path: proxy_provider/provider-cn.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   us:
     type: http
@@ -251,7 +227,7 @@ proxy-providers:
     path: proxy_provider/provider-us.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   ca:
     type: http
@@ -259,7 +235,7 @@ proxy-providers:
     path: proxy_provider/provider-ca.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   jp:
     type: http
@@ -267,7 +243,7 @@ proxy-providers:
     path: proxy_provider/provider-jp.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   sg:
     type: http
@@ -275,7 +251,7 @@ proxy-providers:
     path: proxy_provider/provider-sg.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   ru:
     type: http
@@ -283,7 +259,7 @@ proxy-providers:
     path: proxy_provider/provider-ru.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   ch:
     type: http
@@ -291,7 +267,7 @@ proxy-providers:
     path: proxy_provider/provider-ch.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   de:
     type: http
@@ -299,7 +275,7 @@ proxy-providers:
     path: proxy_provider/provider-de.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   fr:
     type: http
@@ -307,7 +283,7 @@ proxy-providers:
     path: proxy_provider/provider-fr.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   gb:
     type: http
@@ -315,7 +291,7 @@ proxy-providers:
     path: proxy_provider/provider-gb.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   nl:
     type: http
@@ -323,7 +299,7 @@ proxy-providers:
     path: proxy_provider/provider-nl.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   others1:
     type: http
@@ -331,7 +307,7 @@ proxy-providers:
     path: proxy_provider/provider-others1.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   all:
     type: http
@@ -339,124 +315,124 @@ proxy-providers:
     path: proxy_provider/provider1.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   China:
     type: http
     url: "https://free.iam7.tk/clash/proxies?c=CN&speed=5"
     path: proxy_provider/provider-China.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 300
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   HongKong:
     type: http
     url: "https://free.iam7.tk/clash/proxies?c=HK&speed=5"
     path: proxy_provider/provider-HongKong.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   Taiwan:
     type: http
     url: "https://free.iam7.tk/clash/proxies?c=TW&speed=5"
     path: proxy_provider/provider-Taiwan.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204 
   Speed:
     type: http
     url: "https://free.iam7.tk/clash/proxies?speed=10"
     path: proxy_provider/provider-Speed.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204      
   Relay:
     type: http
     url: "https://free.iam7.tk/clash/proxies?filter=r&speed=5"
     path: proxy_provider/provider-Relay.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   Pool:
     type: http
     url: "https://free.iam7.tk/clash/proxies?filter=p&speed=5"
     path: proxy_provider/provider-Pool.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204 
   ss:
     type: http
     url: "https://free.iam7.tk/clash/proxies?type=ss&speed=5"
     path: proxy_provider/provider-ss.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   ssr:
     type: http
     url: "https://free.iam7.tk/clash/proxies?type=ssr&speed=5"
     path: proxy_provider/provider-ssr.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   v2ray:
     type: http
     url: "https://free.iam7.tk/clash/proxies?type=vmess&speed=5"
     path: proxy_provider/provider-vmess.yaml
-    interval: 60
+    interval: 1200
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204 
   trojan:
     type: http
     url: "https://free.iam7.tk/clash/proxies?type=trojan&speed=5"
     path: proxy_provider/provider-trojan.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204      
   Asia:
     type: http
     url: "https://free.iam7.tk/clash/proxies?c=AF,AM,AZ,PS,BH,BD,BT,BN,KH,CY,TL,EG,IN,ID,IR,IQ,IL,JP,JO,KZ,KW,KG,LA,LB,MY,MV,MN,MM,NP,KP,OM,PK,CN,PH,QA,TW,RU,SA,SG,KR,LK,SY,TJ,TH,TR,TM,GE,AE,UZ,VN,YE&speed=5"
     path: proxy_provider/provider-Asia.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204 
   NorthAmerica:
     type: http
     url: "https://free.iam7.tk/clash/proxies?c=AG,BS,BB,BZ,CA,CR,CU,DM,DO,SV,GD,GT,HT,HN,JM,MX,NI,PA,KN,LC,VC,TT,US&speed=5"
     path: proxy_provider/Provider-North America.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204      
   SouthAmerica:
     type: http
     url: "https://free.iam7.tk/clash/proxies?c=AR,BO,BR,CL,CO,EC,GY,PY,PE,SR,TT,UY,VE&speed=5"
     path: proxy_provider/provider-South America.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   Oceania:
     type: http
@@ -465,7 +441,7 @@ proxy-providers:
     interval: 60
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   Europe:
     type: http
@@ -474,34 +450,34 @@ proxy-providers:
     interval: 60
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   Africa:
     type: http
     url: "https://free.iam7.tk/clash/proxies?c=DZ,AO,BJ,BW,BF,CM,CV,CF,TD,KM,CI,CD,DJ,EG,GQ,ER,ET,GA,GM,GH,GN,GW,KE,LS,LR,LY,MG,MW,ML,MR,MU,MA,MZ,NA,NE,NG,CG,RW,ST,SN,SC,SL,SO,SS,ZA,SD,SZ,TZ,TG,TN,UG,EH,ZM,ZW&speed=5"
     path: proxy_provider/Provider-Africa.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   others:
     type: http
     url: "https://free.iam7.tk/clash/proxies?nc=CN,HK,TW,JP,KR,RU,SG,IN,VN,TH,MY,PH,ID,NZ,US,CA,MX,AU,NL,DE,GB,FR,DK,ES,FZ,EE,HR,LT,LU,AL,CH,BE,FI&speed=5"
     path: proxy_provider/provider-others.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204
   Global:
     type: http
     url: "https://free.iam7.tk/clash/proxies"
     path: proxy_provider/provider.yaml
-    interval: 60
+    interval: 1000
     health-check:
       enable: true
-      interval: 120
+      interval: 1200
       url: http://www.gstatic.com/generate_204
 proxy-groups:
 - name: STREAMING
@@ -572,7 +548,7 @@ proxy-groups:
   - gb
   - nl
   url: http://www.gstatic.com/generate_204
-  interval: 600
+  interval: 900
 - name: proxy
   type: select
   proxies:
@@ -631,15 +607,13 @@ proxy-groups:
   - gb
   - nl
   url: 'http://www.google.com/'
-  interval: 300
-  tolerance: 150       
+  interval: 900     
   lazy: true
   disable-udp: true  
 - name: auto
   type: url-test
   url: http://www.gstatic.com/generate_204
-  interval: 300
-  tolerance: 50
+  interval: 1200
   use:
   - VPN1
   - VPN2
