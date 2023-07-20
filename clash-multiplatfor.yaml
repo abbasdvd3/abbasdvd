@@ -12,57 +12,55 @@ proxy-providers:
   VPN1:
     type: http
     url: "http://proxies.haisto.cn/clash/proxies"
-    interval: 600
+    interval: 300
     path: provide/VPN1.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 500
+      interval: 300
   VPN2:
     type: http
     url: "https://config.v2cross.com/clashprofile/config/"
-    interval: 600
+    interval: 300
     path: provide/VPN2.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 500
+      interval: 300
   VPN3:
     type: http
     url: "https://oneclash.cc/wp-content/uploads/2023/07/20230719.yaml"
-    interval: 600
+    interval: 300
     path: provide/VPN3.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 500
+      interval: 300
   VPN4:
     type: http
     url: "https://wenode.cc/wp-content/uploads/2023/07/20230719.yaml"
-    interval: 600
+    interval: 300
     path: provide/VPN4.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 500
+      interval: 300
   VPN5:
     type: http
     url: "https://wefound.cc/freenode/2023/07/20230719.yaml"
-    interval: 600
+    interval: 300
     path: provide/VPN5.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 500
+      interval: 300
   VPN6:
-    type: http
-    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd10/main/trojan-15082.yaml"
-    interval: 600
+    type: file
     path: provide/VPN6.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
-      interval: 500
+      interval: 300
   VPN7:
     type: http
     url: "https://free.iam7.tk/clash/proxies"
