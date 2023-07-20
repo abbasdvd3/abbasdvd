@@ -4,7 +4,7 @@ allow-lan: false
 log-level: debug
 ipv6: false
 external-controller: 0.0.0.0:9090
-external-ui: dashboard/dist
+external-ui: dashboard/
 udp: true
 unified-delay: true
 proxies:
