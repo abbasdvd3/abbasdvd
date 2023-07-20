@@ -56,7 +56,7 @@ proxy-providers:
       interval: 500
   VPN6:
     type: http
-    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd10/main/4444.txt"
+    url: "https://raw.githubusercontent.com/abbasdvd3/abbasdvd10/main/trojan-15082.yaml"
     interval: 600
     path: provide/VPN6.yaml
     health-check:
