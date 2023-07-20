@@ -11,7 +11,7 @@ proxies:
 proxy-providers:
   VPN1:
     type: http
-    url: "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_META_IRAN-Direct.yml"
+    url: "http://proxies.haisto.cn/clash/proxies"
     interval: 600
     path: provide/VPN1.yaml
     health-check:
