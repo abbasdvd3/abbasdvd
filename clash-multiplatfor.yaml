@@ -22,7 +22,7 @@ proxy-providers:
       interval: 300
   VPN3:
     type: http
-    url: "https://wefound.cc/freenode/2023/07/20230722.yaml"
+    url: "https://nodefree.org/dy/2023/07/20230722.yaml"
     interval: 300
     path: provide/VPN3.yaml
     health-check:
