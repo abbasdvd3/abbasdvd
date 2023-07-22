@@ -40,7 +40,7 @@ proxy-providers:
       interval: 300
   VPN5:
     type: http
-    url: "https://clashnode.com/wp-content/uploads/2023/07/20230722.yaml"
+    url: "https://clashnode.com/wp-cohttps://raw.githubusercontent.com/abbasdvd3/clash/main/3.1.yaml"
     interval: 300
     path: provide1/VPN5.yaml
     health-check:
