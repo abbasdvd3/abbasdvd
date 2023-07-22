@@ -31,7 +31,7 @@ proxy-providers:
       interval: 300
   VPN4:
     type: http
-    url: "https://v2rayshare.com/wp-content/uploads/2023/07/20230722.yaml"
+    url: "https://raw.githubusercontent.com/abbasdvd3/clash/main/3april3.yaml"
     interval: 300
     path: provide1/VPN4.yaml
     health-check:
