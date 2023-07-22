@@ -6,7 +6,7 @@ proxy-providers:
     type: http
     url: "http://proxies.haisto.cn/clash/proxies"
     interval: 300
-    path: provide/VPN1.yaml
+    path: provide1/VPN1.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
@@ -15,7 +15,7 @@ proxy-providers:
     type: http
     url: "https://config.v2cross.com/clashprofile/config/"
     interval: 300
-    path: provide/VPN2.yaml
+    path: provide1/VPN2.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
@@ -24,7 +24,7 @@ proxy-providers:
     type: http
     url: "https://nodefree.org/dy/2023/07/20230722.yaml"
     interval: 300
-    path: provide/VPN3.yaml
+    path: provide1/VPN3.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
@@ -33,7 +33,7 @@ proxy-providers:
     type: http
     url: "https://v2rayshare.com/wp-content/uploads/2023/07/20230722.yaml"
     interval: 300
-    path: provide/VPN4.yaml
+    path: provide1/VPN4.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
@@ -42,7 +42,7 @@ proxy-providers:
     type: http
     url: "https://clashnode.com/wp-content/uploads/2023/07/20230722.yaml"
     interval: 300
-    path: provide/VPN5.yaml
+    path: provide1/VPN5.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
@@ -51,7 +51,7 @@ proxy-providers:
     type: http
     url: "https://freenode.me/wp-content/uploads/2023/07/2288.yaml"
     interval: 600
-    path: provide/VPN6.yaml
+    path: provide1/VPN6.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
@@ -60,7 +60,7 @@ proxy-providers:
     type: http
     url: "https://free.iam7.tk/clash/proxies"
     interval: 600
-    path: provide/VPN7.yaml
+    path: provide1/VPN7.yaml
     health-check:
       enable: true
       url: http://cp.cloudflare.com/generate_204
