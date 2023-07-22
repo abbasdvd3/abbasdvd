@@ -22,7 +22,7 @@ proxy-providers:
       interval: 300
   VPN3:
     type: http
-    url: "https://nodefree.org/dy/2023/07/20230722.yaml"
+    url: "https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml"
     interval: 300
     path: provide1/VPN3.yaml
     health-check:
