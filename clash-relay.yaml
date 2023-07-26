@@ -1,39 +1,4 @@
-mixed-port: 7890
-allow-lan: false
-mode: rule
-log-level: debug 
-ipv6: false
-dns:
-  enable: true 
-  prefer-h3: true 
-  listen: 127.0.0.1:1053 
-  # ipv6: false 
-  default-nameserver:
-     - '114.114.114.114'
-     - '9.9.9.9'
-     - '8.8.8.8'
-     - 'tls://1.12.12.12:853'
-     - 'tls://223.5.5.5:853'
-     - '127.0.0.1'
-     - '1.1.1.1'
-     - '217.218.155.155'
-  enhanced-mode: fake-ip 
-  fake-ip-range: 198.18.0.1/16 
-  use-hosts: true 
-  fake-ip-filter:
-     - '+.stun.*.*'
-     - '+.stun.*.*.*'
-     - '+.stun.*.*.*.*'
-     - '+.stun.*.*.*.*.*'
-     - '*.lan'
-     - 'speedtest.cros.wr.pvp.net'
-  nameserver:
-     - '114.114.114.114' 
-     - '8.8.8.8'
-     - 'tls://223.5.5.5:853'
-     - 'https://doh.pub/dns-query'
-     - 'https://dns.alidns.com/dns-query#h3=true'
-     - 'https://mozilla.cloudflare-dns.com/dns-query#DNS&h3=true'
+
 proxies:
 proxy-providers:
   VPN1:
@@ -216,4 +181,4 @@ rules:
   - DOMAIN-SUFFIX,miwifi.com,DIRECT
   - DOMAIN-SUFFIX,xiaomi.com,DIRECT
   - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
- #  - MATCH,🔰
+  - MATCH,🚗
