@@ -1,3 +1,4 @@
+proxies:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@ggjh.enoiy.com:811#1._2
 ss://bnVsbDp1bmRlZmluZWQ=@$*@14.29.124.168:25235#1._9
 ss://bnVsbDp1bmRlZmluZWQ=@$*@14.29.124.168:25296#1._10
