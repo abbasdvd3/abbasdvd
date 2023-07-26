@@ -1,4 +1,4 @@
-
+unified-delay: true
 proxies:
 proxy-providers:
   VPN1:
@@ -102,7 +102,7 @@ proxy-providers:
       interval: 300
 proxy-groups:
   - name: 🚗
-    type: relay
+    type: url-test
     proxies:
     use:
       - "VPN6"
@@ -181,4 +181,4 @@ rules:
   - DOMAIN-SUFFIX,miwifi.com,DIRECT
   - DOMAIN-SUFFIX,xiaomi.com,DIRECT
   - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
- # - MATCH,🚗
+  - MATCH,🚗
