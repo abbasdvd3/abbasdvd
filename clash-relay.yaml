@@ -791,7 +791,4 @@ rules:
   - DOMAIN-SUFFIX,miwifi.com,DIRECT
   - DOMAIN-SUFFIX,xiaomi.com,DIRECT
   - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
-  - DOMAIN-SUFFIX,.ir,DIRECT
-  - GEOIP,CN,DIRECT
-  - GEOIP,IR,DIRECT
   - MATCH,🔰
