@@ -13,61 +13,6 @@ dns:
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
     - '*.lan'
-    - '*.linksys.com'
-    - '*.linksyssmartwifi.com'
-    - swscan.apple.com
-    - mesu.apple.com
-    - '*.msftconnecttest.com'
-    - '*.msftncsi.com'
-    - time.*.com
-    - time.*.gov
-    - time.*.edu.cn
-    - time.*.apple.com
-    - time1.*.com
-    - time2.*.com
-    - time3.*.com
-    - time4.*.com
-    - time5.*.com
-    - time6.*.com
-    - time7.*.com
-    - ntp.*.com
-    - ntp.*.com
-    - ntp1.*.com
-    - ntp2.*.com
-    - ntp3.*.com
-    - ntp4.*.com
-    - ntp5.*.com
-    - ntp6.*.com
-    - ntp7.*.com
-    - '*.time.edu.cn'
-    - '*.ntp.org.cn'
-    - +.pool.ntp.org
-    - time1.cloud.tencent.com
-    - +.music.163.com
-    - '*.126.net'
-    - musicapi.taihe.com
-    - music.taihe.com
-    - songsearch.kugou.com
-    - trackercdn.kugou.com
-    - '*.kuwo.cn'
-    - api-jooxtt.sanook.com
-    - api.joox.com
-    - joox.com
-    - +.y.qq.com
-    - +.music.tc.qq.com
-    - aqqmusic.tc.qq.com
-    - +.stream.qqmusic.qq.com
-    - '*.xiami.com'
-    - +.music.migu.cn
-    - +.srv.nintendo.net
-    - +.stun.playstation.net
-    - xbox.*.microsoft.com
-    - +.xboxlive.com
-    - localhost.ptlogin2.qq.com
-    - proxy.golang.org
-    - stun.*.*
-    - stun.*.*.*
-    - '*.mcdn.bilivideo.cn'
   nameserver:
     - https://doh.pub/dns-query
     - https://dns.alidns.com/dns-query
@@ -687,3 +632,42 @@ proxies:
   - {"name":"irancell_607","type":"vmess","server":"38.63.0.83","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/120306182525","headers":{"host":"www.19458162.xyz"}}}
   - {"name":"irancell_608","type":"vmess","server":"172.66.46.15","port":443,"cipher":"auto","uuid":"12612e87-8003-44a8-b4e8-ec4a325e9016","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ou","headers":{"host":"z.zorro.tk"}}}
   - {"name":"irancell_609","type":"vmess","server":"scaleway.696960.xyz","port":443,"cipher":"auto","uuid":"e357cd63-f1a5-4c8e-c42e-26da11207fee","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/root/"}}
+  - {"name":"irancelll_1","type":"vless","server":"vowelquran18.xyz","port":443,"uuid":"962a733d-26d7-108d-7fa6-a8102ffea8eb","tls":true,"network":"ws","ws-opts":{"path":"/current_time"}}
+  - {"name":"irancelll_2","type":"vmess","server":"45.121.48.172","port":10001,"cipher":"auto","uuid":"dba51a2e-a788-43b7-9ac4-9f7cc1255f15","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"irancelll_3","type":"vmess","server":"47.254.121.68","port":80,"cipher":"auto","uuid":"c778fc8d-ce2f-4cd3-a949-1b99091c41da","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/OFglbcWQ8P3dJUA7yf"}}
+  - {"name":"irancelll_4","type":"vmess","server":"85.208.104.22","port":40400,"cipher":"auto","uuid":"eb6f75a1-3cee-4935-c76c-115114a36c09","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/eb6f75a1"}}
+  - {"name":"irancelll_5","type":"vmess","server":"109.248.25.59","port":29064,"cipher":"auto","uuid":"8958440c-aa86-4ff1-8e88-5c7a052d5961","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ss"}}
+  - {"name":"irancelll_6","type":"vless","server":"202.81.231.150","port":443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"edgood.king361.cf","network":"ws","ws-opts":{"path":"telegram🇨🇳 @angcai_8 /?ed=2048"}}
+  - {"name":"irancelll_7","type":"vmess","server":"85.208.104.22","port":40400,"cipher":"auto","uuid":"eb6f75a1-3cee-4935-c76c-115114a36c09","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/eb6f75a1","headers":{"host":"85.208.104.22"}}}
+  - {"name":"irancelll_8","type":"vmess","server":"47.89.229.201","port":80,"cipher":"auto","uuid":"0dce8b7e-4189-427b-95b7-93fc55d25115","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/PxcYlDIHtv3GtsBfhm1AaayIV"}}
+  - {"name":"irancelll_9","type":"vmess","server":"140.83.63.38","port":24445,"cipher":"auto","uuid":"94c5ef37-4d82-49f9-c624-f01259374a17","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"irancelll_10","type":"vmess","server":"152.69.197.60","port":1069,"cipher":"auto","uuid":"ac8e26fe-8150-4b60-ae64-82fc77eba2cf","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"irancelll_11","type":"vmess","server":"182.16.1.194","port":80,"cipher":"auto","uuid":"00a1da14-d55f-5f75-e346-79b985e1a723","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/opt/video/images"}}
+  - {"name":"irancelll_12","type":"vmess","server":"47.254.121.68","port":80,"cipher":"auto","uuid":"c778fc8d-ce2f-4cd3-a949-1b99091c41da","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/OFglbcWQ8P3dJUA7yf","headers":{"host":"47.254.121.68"}}}
+  - {"name":"irancelll_13","type":"vless","server":"turkws.configforvpn.fun","port":2087,"uuid":"462acb01-a275-433c-9fc6-074de3d68ba0","tls":true,"servername":"turkws.configforvpn.fun","network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"irancelll_14","type":"vless","server":"47.91.28.15","port":443,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"edgood.king361.cf","network":"ws","ws-opts":{"path":"telegram🇨🇳 @wangcai_8 /?ed=2048"}}
+  - {"name":"irancelll_15","type":"vmess","server":"130.61.111.167","port":21872,"cipher":"auto","uuid":"9a7a75d4-ab7e-4ba0-bbfa-a4acddc18084","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"irancelll_16","type":"vmess","server":"47.254.16.114","port":443,"cipher":"auto","uuid":"f3464642-f113-4575-aa33-f68aef56b5c0","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/mePGXW6SFZZw2QyAqaYK"}}
+  - {"name":"irancelll_17","type":"ss","server":"49.13.10.50","port":1194,"password":"Uxm4ADwftKdXq5qRA4ZfHS","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"irancelll_18","type":"vless","server":"104.21.59.125","port":443,"uuid":"e1a928be-e289-4aef-b92e-4106fabdf42f","tls":true,"servername":"mahi.kosnanatfilterchi.eu.org","network":"ws","ws-opts":{"path":"/?ed=2048"}}
+  - {"name":"irancelll_19","type":"vmess","server":"47.88.87.39","port":80,"cipher":"auto","uuid":"18351862-d953-4ab9-afae-4998dcd56f8b","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/wRDYyXAgH6oASzMKs65VUYw","headers":{"host":"47.88.87.39"}}}
+  - {"name":"irancelll_20","type":"vmess","server":"43.153.210.169","port":666,"cipher":"auto","uuid":"34a2f093-c236-4edc-eb6a-663f1bfaa136","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"irancelll_21","type":"vless","server":"storeships.toptechnonews.com","port":443,"uuid":"cede337b-9ea5-40e5-a8b1-690bf49ff41d","tls":true,"servername":"storeships.toptechnonews.com","network":"ws","ws-opts":{"path":"/nimws"}}
+  - {"name":"irancelll_22","type":"vmess","server":"47.254.17.235","port":80,"cipher":"auto","uuid":"2caa5a0e-519b-4503-80d4-5363193e5018","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/Ogl9djGbo2NTAt3Ovj1NvwjJ"}}
+  - {"name":"irancelll_23","type":"vless","server":"47.245.38.149","port":2096,"uuid":"60813b9d-aa0e-4a5c-88b8-ed231058e82a","tls":true,"servername":"pages.20230619.love","network":"ws","ws-opts":{"path":"telegram🇨🇳 @wangcai2 /?ed=2048"}}
+  - {"name":"irancelll_24","type":"vmess","server":"95.164.46.154","port":8080,"cipher":"auto","uuid":"431fda16-e0f8-4884-b4fd-965f03f86471","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess"}}
+  - {"name":"irancelll_25","type":"vmess","server":"45.121.48.172","port":10001,"cipher":"auto","uuid":"dba51a2e-a788-43b7-9ac4-9f7cc1255f15","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"irancelll_26","type":"vless","server":"47.245.38.149","port":2053,"uuid":"60813b9d-aa0e-4a5c-88b8-ed231058e82a","tls":true,"servername":"pages.20230619.love","network":"ws","ws-opts":{"path":"telegram🇨🇳 @wangcai_8 /?ed=2048"}}
+  - {"name":"irancelll_27","type":"vmess","server":"47.89.211.175","port":443,"cipher":"auto","uuid":"6cc722d0-f6b5-4179-be13-c15cb9e75dd9","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/84BxD2shFYFpsiRGXACUPqWt"}}
+  - {"name":"irancelll_28","type":"vmess","server":"38.180.33.136","port":50104,"cipher":"auto","uuid":"790f6802-7535-4109-de6d-15f676d5e3f7","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"irancelll_29","type":"vmess","server":"47.254.121.68","port":443,"cipher":"auto","uuid":"c778fc8d-ce2f-4cd3-a949-1b99091c41da","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/OFglbcWQ8P3dJUA7yf"}}
+  - {"name":"irancelll_30","type":"vmess","server":"47.89.211.175","port":80,"cipher":"auto","uuid":"6cc722d0-f6b5-4179-be13-c15cb9e75dd9","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/84BxD2shFYFpsiRGXACUPqWt"}}
+  - {"name":"irancelll_31","type":"vmess","server":"47.88.106.47","port":80,"cipher":"auto","uuid":"52fe86cc-db7f-43d0-83f8-7e4c91a61f35","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/qRV8zMMajQyex4KWUBkia1vvH"}}
+  - {"name":"irancelll_32","type":"vless","server":"3k.pureboy.eu.org","port":443,"uuid":"b9ad895b-12ac-40fc-a5ac-a5b2a1285001","tls":true,"servername":"3k.pureboy.eu.org","network":"ws","ws-opts":{"path":"/?ed"}}
+  - {"name":"irancelll_33","type":"vless","server":"173.245.58.100","port":443,"uuid":"60813b9d-aa0e-4a5c-88b8-ed231058e82a","tls":true,"servername":"pages.20230619.love","network":"ws","ws-opts":{"path":"/?ed=2048"}}
+  - {"name":"irancelll_34","type":"vmess","server":"47.88.87.39","port":80,"cipher":"auto","uuid":"18351862-d953-4ab9-afae-4998dcd56f8b","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/wRDYyXAgH6oASzMKs65VUYw"}}
+  - {"name":"irancelll_35","type":"vless","server":"172.67.170.103","port":443,"uuid":"b9ad895b-12ac-40fc-a5ac-a5b2a1285001","tls":true,"servername":"3k.pureboy.eu.org","network":"ws","ws-opts":{"path":"/?ed=2048"}}
+  - {"name":"irancelll_36","type":"vmess","server":"47.254.89.211","port":80,"cipher":"auto","uuid":"203b2ab2-4994-4193-8193-6631a575edb0","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/GSoTl9ZoYG5V2R0k4tUTGI8k"}}
+  - {"name":"irancelll_37","type":"vmess","server":"47.254.16.114","port":80,"cipher":"auto","uuid":"f3464642-f113-4575-aa33-f68aef56b5c0","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/mePGXW6SFZZw2QyAqaYK"}}
+  - {"name":"irancelll_38","type":"vmess","server":"129.146.46.181","port":52408,"cipher":"auto","uuid":"a797ff7b-8161-40a6-d577-1b2c213b3885","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"irancelll_39","type":"vmess","server":"47.88.106.47","port":80,"cipher":"auto","uuid":"52fe86cc-db7f-43d0-83f8-7e4c91a61f35","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/qRV8zMMajQyex4KWUBkia1vvH"}}
